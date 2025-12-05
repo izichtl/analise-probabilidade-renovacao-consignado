@@ -1,0 +1,740 @@
+Código;Serviço;Data;Consignatário;Verba;Matrícula;Período;Prazo Total;Prazo restante;Valor da Parcela;Total Parcelas;Valor liberado;Carência / Primeiro Lançamento;Previsão de Termino;Natureza
+135926;Empréstimo Consignado;10/05/2024;Caixa Econômica Federal;427;198601;Maio de 2024;144;133;1240,99;178702,56;86053,46;0 / Maio de 2024;Junho de 2036;Renegociação
+133080;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2541;Março de 2018;96;11;221,94;21306,24;0;0 / Março de 2018;Abril de 2026;Novo contrato
+133092;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3441;Março de 2018;96;47;42,43;4073,28;0;0 / Março de 2018;Abril de 2029;Novo contrato
+133014;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4011;Março de 2018;96;47;35,74;3431,04;0;0 / Março de 2018;Abril de 2029;Novo contrato
+132895;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3691;Julho de 2018;72;18;334,69;24097,68;0;0 / Julho de 2018;Novembro de 2026;Novo contrato
+133253;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;6961;Agosto de 2018;96;16;656,65;63038,4;0;0 / Agosto de 2018;Setembro de 2026;Novo contrato
+132957;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;9251;Agosto de 2019;84;16;364,26;30597,84;0;0 / Agosto de 2019;Setembro de 2026;Novo contrato
+133180;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2751;Setembro de 2019;96;31;57,95;5563,2;0;0 / Setembro de 2019;Dezembro de 2027;Novo contrato
+133029;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;5351;Setembro de 2019;48;3;612,79;29413,92;0;0 / Setembro de 2019;Agosto de 2025;Novo contrato
+133191;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4011;Novembro de 2019;96;68;306,45;29419,2;0;0 / Novembro de 2019;Janeiro de 2031;Novo contrato
+133186;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;11851;Novembro de 2019;96;31;913,93;87737,28;0;0 / Novembro de 2019;Dezembro de 2027;Novo contrato
+133042;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7921;Maio de 2020;96;37;446;42816;0;0 / Maio de 2020;Junho de 2028;Novo contrato
+133085;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;29502;Agosto de 2020;96;76;78,99;7583,04;0;0 / Agosto de 2020;Setembro de 2031;Novo contrato
+132881;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2581;Outubro de 2020;60;6;389,61;23376,6;0;0 / Outubro de 2020;Novembro de 2025;Novo contrato
+132933;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;16052;Outubro de 2020;66;49;289,67;19118,22;0;0 / Outubro de 2020;Junho de 2029;Novo contrato
+132936;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3521;Novembro de 2020;96;47;627,7;60259,2;0;0 / Novembro de 2020;Abril de 2029;Novo contrato
+133121;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7231;Novembro de 2020;96;43;226,93;21785,28;0;0 / Novembro de 2020;Dezembro de 2028;Novo contrato
+133012;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;9401;Novembro de 2020;96;43;146,3;14044,8;0;0 / Novembro de 2020;Dezembro de 2028;Novo contrato
+133060;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;211;Dezembro de 2020;72;20;151,65;10918,8;0;0 / Dezembro de 2020;Janeiro de 2027;Novo contrato
+133119;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7811;Dezembro de 2020;84;32;265,04;22263,36;0;0 / Dezembro de 2020;Janeiro de 2028;Novo contrato
+133078;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;25182;Dezembro de 2020;96;76;345,06;33125,76;0;0 / Dezembro de 2020;Setembro de 2031;Novo contrato
+133215;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;29502;Dezembro de 2020;48;32;243,6;11692,8;0;0 / Dezembro de 2020;Janeiro de 2028;Novo contrato
+132961;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7681;Janeiro de 2021;96;45;463,34;44480,64;0;0 / Janeiro de 2021;Fevereiro de 2029;Novo contrato
+132826;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;29502;Janeiro de 2021;48;33;67,26;3228,48;0;0 / Janeiro de 2021;Fevereiro de 2028;Novo contrato
+132883;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;155551;Fevereiro de 2021;35;19;143;5005;0;0 / Fevereiro de 2021;Dezembro de 2026;Novo contrato
+132951;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2441;Março de 2021;96;49;343,5;32976;0;0 / Março de 2021;Junho de 2029;Novo contrato
+133024;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4261;Março de 2021;96;47;433,89;41653,44;0;0 / Março de 2021;Abril de 2029;Novo contrato
+132816;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7021;Março de 2021;72;23;175;12600;0;0 / Março de 2021;Abril de 2027;Novo contrato
+132946;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;31151;Março de 2021;45;27;329,53;14828,85;0;0 / Março de 2021;Agosto de 2027;Novo contrato
+132984;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;32711;Março de 2021;46;26;484,47;22285,62;0;0 / Março de 2021;Julho de 2027;Novo contrato
+133131;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;66614;Março de 2021;50;38;421,51;21075,5;0;0 / Março de 2021;Julho de 2028;Novo contrato
+132956;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;76763;Março de 2021;45;17;344,85;15518,25;0;0 / Março de 2021;Outubro de 2026;Novo contrato
+133112;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;86218;Março de 2021;45;10;304,7;13711,5;0;0 / Março de 2021;Março de 2026;Novo contrato
+132905;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;89743;Março de 2021;44;11;260,3;11453,2;0;0 / Março de 2021;Abril de 2026;Novo contrato
+132970;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;158571;Março de 2021;45;25;304,63;13708,35;0;0 / Março de 2021;Junho de 2027;Novo contrato
+133009;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7931;Abril de 2021;96;48;392,47;37677,12;0;0 / Abril de 2021;Maio de 2029;Novo contrato
+133040;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;12732;Abril de 2021;44;25;305,25;13431;0;0 / Abril de 2021;Junho de 2027;Novo contrato
+133066;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;17664;Abril de 2021;44;23;150;6600;0;0 / Abril de 2021;Abril de 2027;Novo contrato
+132918;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;18763;Abril de 2021;44;21;300;13200;0;0 / Abril de 2021;Fevereiro de 2027;Novo contrato
+133242;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4011;Maio de 2021;96;85;119,69;11490,24;0;0 / Maio de 2021;Junho de 2032;Novo contrato
+132988;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4431;Maio de 2021;96;49;354,63;34044,48;0;0 / Maio de 2021;Junho de 2029;Novo contrato
+133104;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;109361;Maio de 2021;44;10;1375,48;60521,12;0;0 / Maio de 2021;Março de 2026;Novo contrato
+133175;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;158571;Maio de 2021;43;25;51,48;2213,64;0;0 / Maio de 2021;Junho de 2027;Novo contrato
+133171;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;76763;Junho de 2021;42;17;150;6300;0;0 / Junho de 2021;Outubro de 2026;Novo contrato
+133082;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;117112;Junho de 2021;43;21;384,18;16519,74;0;0 / Junho de 2021;Fevereiro de 2027;Novo contrato
+132996;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;8031;Julho de 2021;96;51;361,44;34698,24;0;0 / Julho de 2021;Agosto de 2029;Novo contrato
+132837;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;4341;Agosto de 2021;96;52;183,95;17659,2;0;0 / Agosto de 2021;Setembro de 2029;Novo contrato
+133194;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;6861;Agosto de 2021;60;16;180;10800;0;0 / Agosto de 2021;Setembro de 2026;Novo contrato
+133182;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7571;Agosto de 2021;96;52;23,56;2261,76;0;0 / Agosto de 2021;Setembro de 2029;Novo contrato
+132832;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;29502;Agosto de 2021;41;33;237,96;9756,36;0;0 / Agosto de 2021;Fevereiro de 2028;Novo contrato
+132830;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2751;Setembro de 2021;96;55;44,9;4310,4;0;0 / Setembro de 2021;Dezembro de 2029;Novo contrato
+133174;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3271;Setembro de 2021;96;53;347,83;33391,68;0;0 / Setembro de 2021;Outubro de 2029;Novo contrato
+132910;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3731;Setembro de 2021;48;5;192,24;9227,52;0;0 / Setembro de 2021;Outubro de 2025;Novo contrato
+133224;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;7811;Setembro de 2021;96;53;115,34;11072,64;0;0 / Setembro de 2021;Outubro de 2029;Novo contrato
+133251;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;8431;Setembro de 2021;96;57;900,08;86407,68;0;0 / Setembro de 2021;Fevereiro de 2030;Novo contrato
+133207;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;17664;Setembro de 2021;40;24;206,11;8244,4;0;0 / Setembro de 2021;Maio de 2027;Novo contrato
+132897;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;19801;Setembro de 2021;96;66;1383,59;132824,64;0;0 / Setembro de 2021;Novembro de 2030;Novo contrato
+133038;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2301;Outubro de 2021;96;84;399,1;38313,6;0;0 / Outubro de 2021;Maio de 2032;Novo contrato
+133213;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;25182;Outubro de 2021;96;86;64,85;6225,6;0;0 / Outubro de 2021;Julho de 2032;Novo contrato
+133167;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;31151;Outubro de 2021;39;28;58,44;2279,16;0;0 / Outubro de 2021;Setembro de 2027;Novo contrato
+133036;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;2721;Novembro de 2021;96;55;1143,52;109777,92;0;0 / Novembro de 2021;Dezembro de 2029;Novo contrato
+132825;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;25182;Novembro de 2021;96;87;143,45;13771,2;0;0 / Novembro de 2021;Agosto de 2032;Novo contrato
+133151;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;89743;Novembro de 2021;38;13;200;7600;0;0 / Novembro de 2021;Junho de 2026;Novo contrato
+132894;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;167802;Novembro de 2021;48;39;369,59;17740,32;0;0 / Novembro de 2021;Agosto de 2028;Novo contrato
+133252;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;8431;Dezembro de 2021;96;57;43,54;4179,84;0;0 / Dezembro de 2021;Fevereiro de 2030;Novo contrato
+133007;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;9541;Janeiro de 2022;60;21;365,93;21955,8;0;0 / Janeiro de 2022;Fevereiro de 2027;Novo contrato
+132995;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;177521;Janeiro de 2022;96;81;559,86;53746,56;0;0 / Janeiro de 2022;Fevereiro de 2032;Novo contrato
+133264;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;3871;Fevereiro de 2022;96;60;546;52416;0;1 / Março de 2022;Maio de 2030;Novo contrato
+133274;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;5071;Fevereiro de 2022;48;12;286,33;13743,84;0;1 / Março de 2022;Maio de 2026;Novo contrato
+133272;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;8431;Fevereiro de 2022;95;65;83,82;7962,9;0;4 / Junho de 2022;Outubro de 2030;Novo contrato
+132843;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;184221;Fevereiro de 2022;48;13;128,86;6185,28;0;1 / Março de 2022;Junho de 2026;Novo contrato
+133265;Empréstimo Consignado;16/02/2022;Banco Bradesco;424;189021;Fevereiro de 2022;96;59;479,88;46068,48;0;1 / Março de 2022;Abril de 2030;Novo contrato
+135217;Empréstimo Consignado;10/06/2022;Banco Bradesco;424;2751;Junho de 2022;84;48;346,75;29127;0;0 / Junho de 2022;Maio de 2029;Novo contrato
+135245;Empréstimo Consignado;17/06/2022;Banco Bradesco;424;3801;Junho de 2022;96;58;377,32;36222,72;0;0 / Junho de 2022;Março de 2030;Novo contrato
+135199;Empréstimo Consignado;10/06/2022;Banco Bradesco;424;5731;Junho de 2022;96;81;257,97;24765,12;0;0 / Junho de 2022;Fevereiro de 2032;Novo contrato
+135236;Empréstimo Consignado;17/06/2022;Banco Bradesco;424;8081;Junho de 2022;92;73;503,58;46329,36;0;0 / Junho de 2022;Junho de 2031;Novo contrato
+135192;Empréstimo Consignado;10/06/2022;Banco Bradesco;424;11821;Junho de 2022;96;59;181,4;17414,4;0;0 / Junho de 2022;Abril de 2030;Novo contrato
+135215;Empréstimo Consignado;10/06/2022;Banco Bradesco;424;24103;Junho de 2022;36;1;287,56;10352,16;0;0 / Junho de 2022;Junho de 2025;Novo contrato
+132274;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5271;Abril de 2017;72;1;438,3;31557,6;0;0 / Abril de 2017;Junho de 2025;Novo contrato
+132322;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5351;Julho de 2018;72;13;590,8;42537,6;0;0 / Julho de 2018;Junho de 2026;Novo contrato
+132239;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;1561;Março de 2019;60;22;1080,24;64814,4;0;0 / Março de 2019;Março de 2027;Novo contrato
+132262;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;2741;Março de 2019;72;12;24,16;1739,52;0;0 / Março de 2019;Maio de 2026;Novo contrato
+132290;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;6981;Julho de 2019;72;3;1665,46;119913,12;0;0 / Julho de 2019;Agosto de 2025;Novo contrato
+132313;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;9211;Outubro de 2019;72;6;584,32;42071,04;0;0 / Outubro de 2019;Novembro de 2025;Novo contrato
+132284;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;6041;Janeiro de 2020;72;9;91,2;6566,4;0;0 / Janeiro de 2020;Fevereiro de 2026;Novo contrato
+132291;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;6991;Fevereiro de 2020;72;10;1301,26;93690,72;0;0 / Fevereiro de 2020;Março de 2026;Novo contrato
+132236;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;3021;Julho de 2020;72;15;972,37;70010,64;0;0 / Julho de 2020;Agosto de 2026;Novo contrato
+132235;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;3021;Julho de 2020;72;15;654,06;47092,32;0;0 / Julho de 2020;Agosto de 2026;Novo contrato
+132278;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5351;Julho de 2020;36;1;425,97;15334,92;0;0 / Julho de 2020;Junho de 2025;Novo contrato
+132325;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5941;Agosto de 2020;72;18;429,01;30888,72;0;0 / Agosto de 2020;Novembro de 2026;Novo contrato
+132250;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8891;Agosto de 2020;72;16;1269,29;91388,88;0;0 / Agosto de 2020;Setembro de 2026;Novo contrato
+132252;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;9211;Agosto de 2020;72;16;122,84;8844,48;0;0 / Agosto de 2020;Setembro de 2026;Novo contrato
+132326;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;6341;Setembro de 2020;72;17;289,47;20841,84;0;0 / Setembro de 2020;Outubro de 2026;Novo contrato
+132307;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8421;Setembro de 2020;72;17;239,38;17235,36;0;0 / Setembro de 2020;Outubro de 2026;Novo contrato
+132241;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;1771;Outubro de 2020;72;18;341,56;24592,32;0;0 / Outubro de 2020;Novembro de 2026;Novo contrato
+132237;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;3021;Outubro de 2020;72;18;622,32;44807,04;0;0 / Outubro de 2020;Novembro de 2026;Novo contrato
+132240;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;1701;Novembro de 2020;60;19;405,49;24329,4;0;0 / Novembro de 2020;Dezembro de 2026;Novo contrato
+132304;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8051;Dezembro de 2020;72;20;87,52;6301,44;0;0 / Dezembro de 2020;Janeiro de 2027;Novo contrato
+132247;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;211;Janeiro de 2021;72;21;369,17;26580,24;0;0 / Janeiro de 2021;Fevereiro de 2027;Novo contrato
+132270;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4941;Janeiro de 2021;72;21;457,16;32915,52;0;0 / Janeiro de 2021;Fevereiro de 2027;Novo contrato
+132249;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;7921;Janeiro de 2021;72;21;220,11;15847,92;0;0 / Janeiro de 2021;Fevereiro de 2027;Novo contrato
+132306;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8281;Janeiro de 2021;72;21;244,3;17589,6;0;0 / Janeiro de 2021;Fevereiro de 2027;Novo contrato
+132254;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4881;Abril de 2021;72;24;100,96;7269,12;0;0 / Abril de 2021;Maio de 2027;Novo contrato
+132271;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5081;Maio de 2021;72;25;509,46;36681,12;0;0 / Maio de 2021;Junho de 2027;Novo contrato
+132253;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5941;Maio de 2021;72;27;355,82;25619,04;0;0 / Maio de 2021;Agosto de 2027;Novo contrato
+132314;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;9261;Maio de 2021;48;1;400,35;19216,8;0;0 / Maio de 2021;Junho de 2025;Novo contrato
+132234;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;3021;Junho de 2021;48;2;298,37;14321,76;0;0 / Junho de 2021;Julho de 2025;Novo contrato
+132276;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5331;Junho de 2021;72;26;487,44;35095,68;0;0 / Junho de 2021;Julho de 2027;Novo contrato
+132265;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4241;Julho de 2021;72;27;465,24;33497,28;0;0 / Julho de 2021;Agosto de 2027;Novo contrato
+132269;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4531;Julho de 2021;72;27;524,34;37752,48;0;0 / Julho de 2021;Agosto de 2027;Novo contrato
+132272;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5101;Julho de 2021;72;27;711,05;51195,6;0;0 / Julho de 2021;Agosto de 2027;Novo contrato
+132279;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5431;Julho de 2021;72;41;143,45;10328,4;0;0 / Julho de 2021;Outubro de 2028;Novo contrato
+132321;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5331;Setembro de 2021;72;29;351,82;25331,04;0;0 / Setembro de 2021;Outubro de 2027;Novo contrato
+132308;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8891;Setembro de 2021;54;11;299,74;16185,96;0;0 / Setembro de 2021;Abril de 2026;Novo contrato
+132309;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8911;Setembro de 2021;72;29;1181,47;85065,84;0;0 / Setembro de 2021;Outubro de 2027;Novo contrato
+132238;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;3021;Outubro de 2021;70;28;450,53;31537,1;0;0 / Outubro de 2021;Setembro de 2027;Novo contrato
+132323;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5431;Outubro de 2021;72;44;1869,37;134594,64;0;0 / Outubro de 2021;Janeiro de 2029;Novo contrato
+132335;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;20111;Outubro de 2021;39;35;475,6;18548,4;0;0 / Outubro de 2021;Abril de 2028;Novo contrato
+132256;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;23053;Outubro de 2021;72;30;44,47;3201,84;0;0 / Outubro de 2021;Novembro de 2027;Novo contrato
+132245;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;1971;Novembro de 2021;72;31;537,62;38708,64;0;0 / Novembro de 2021;Dezembro de 2027;Novo contrato
+132255;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;2161;Novembro de 2021;72;44;506,51;36468,72;0;0 / Novembro de 2021;Janeiro de 2029;Novo contrato
+132320;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4531;Novembro de 2021;72;31;52,02;3745,44;0;0 / Novembro de 2021;Dezembro de 2027;Novo contrato
+132302;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;7791;Novembro de 2021;72;31;183,02;13177,44;0;0 / Novembro de 2021;Dezembro de 2027;Novo contrato
+132273;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;5261;Dezembro de 2021;72;32;1021,32;73535,04;0;0 / Dezembro de 2021;Janeiro de 2028;Novo contrato
+132338;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4341;Fevereiro de 2022;71;35;74,5;5289,5;0;0 / Fevereiro de 2022;Abril de 2028;Novo contrato
+132336;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;4341;Fevereiro de 2022;69;31;276,41;19072,29;0;0 / Fevereiro de 2022;Dezembro de 2027;Novo contrato
+132341;Empréstimo Consignado;14/02/2022;Banco do Brasil;404;8431;Fevereiro de 2022;72;45;397,05;28587,6;0;0 / Fevereiro de 2022;Fevereiro de 2029;Novo contrato
+135189;Empréstimo Consignado;10/06/2022;Banco do Brasil;404;1701;Junho de 2022;72;47;134,65;9694,8;0;0 / Junho de 2022;Abril de 2029;Novo contrato
+135191;Empréstimo Consignado;10/06/2022;Banco do Brasil;404;1951;Junho de 2022;72;36;287,38;20691,36;0;0 / Junho de 2022;Maio de 2028;Novo contrato
+135242;Empréstimo Consignado;17/06/2022;Banco do Brasil;404;2691;Junho de 2022;72;36;1935,47;139353,84;0;0 / Junho de 2022;Maio de 2028;Novo contrato
+135240;Empréstimo Consignado;17/06/2022;Banco do Brasil;404;5431;Junho de 2022;72;50;342,33;24647,76;0;0 / Junho de 2022;Julho de 2029;Novo contrato
+135186;Empréstimo Consignado;10/06/2022;Banco do Brasil;404;7221;Junho de 2022;48;14;857,67;41168,16;0;0 / Junho de 2022;Julho de 2026;Novo contrato
+135239;Empréstimo Consignado;17/06/2022;Banco do Brasil;404;7521;Junho de 2022;70;35;923,57;64649,9;0;0 / Junho de 2022;Abril de 2028;Novo contrato
+135241;Empréstimo Consignado;17/06/2022;Banco do Brasil;404;8431;Junho de 2022;72;35;494,46;35601,12;0;0 / Junho de 2022;Abril de 2028;Novo contrato
+135185;Empréstimo Consignado;10/06/2022;Banco do Brasil;404;9761;Junho de 2022;48;11;571,21;27418,08;0;0 / Junho de 2022;Abril de 2026;Novo contrato
+135187;Empréstimo Consignado;10/06/2022;Banco do Brasil;404;59595;Junho de 2022;58;24;777,29;45082,82;0;0 / Junho de 2022;Maio de 2027;Novo contrato
+135266;Empréstimo Consignado;07/07/2022;Banco do Brasil;404;200441;Julho de 2022;72;49;277,99;20015,28;10000;0 / Julho de 2022;Junho de 2029;Novo contrato
+135311;Empréstimo Consignado;09/08/2022;Banco do Brasil;404;9111;Agosto de 2022;72;41;949,08;68333,76;39586,54;1 / Setembro de 2022;Outubro de 2028;Renegociação
+135341;Empréstimo Consignado;05/09/2022;Banco do Brasil;404;2131;Setembro de 2022;72;42;278,65;20062,8;9429,7;1 / Outubro de 2022;Novembro de 2028;Renegociação
+135391;Empréstimo Consignado;11/10/2022;Banco do Brasil;404;2811;Outubro de 2022;72;42;180,58;13001,76;6411,77;0 / Outubro de 2022;Novembro de 2028;Novo contrato
+135795;Empréstimo Consignado;23/01/2024;Banco do Brasil;404;4271;Janeiro de 2024;96;58;27,38;2628,48;0;0 / Janeiro de 2024;Março de 2030;Novo contrato
+135793;Empréstimo Consignado;23/01/2024;Banco do Brasil;404;4271;Janeiro de 2024;96;53;434,16;41679,36;0;0 / Janeiro de 2024;Outubro de 2029;Novo contrato
+135794;Empréstimo Consignado;23/01/2024;Banco do Brasil;404;4271;Janeiro de 2024;60;30;77,16;4629,6;0;0 / Janeiro de 2024;Novembro de 2027;Novo contrato
+135209;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;1581;Junho de 2022;77;56;758,03;58368,31;0;0 / Junho de 2022;Janeiro de 2030;Novo contrato
+135211;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;2741;Junho de 2022;120;97;460,47;55256,4;0;0 / Junho de 2022;Junho de 2033;Novo contrato
+135210;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;6161;Junho de 2022;144;109;39,41;5675,04;0;0 / Junho de 2022;Junho de 2034;Novo contrato
+135205;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;11221;Junho de 2022;144;110;349,92;50388,48;0;0 / Junho de 2022;Julho de 2034;Novo contrato
+135204;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;11221;Junho de 2022;144;110;194,29;27977,76;0;0 / Junho de 2022;Julho de 2034;Novo contrato
+135208;Empréstimo Consignado;10/06/2022;Caixa Econômica Federal;427;181391;Junho de 2022;144;110;98,89;14240,16;0;0 / Junho de 2022;Julho de 2034;Novo contrato
+135848;Empréstimo Consignado;06/03/2024;Caixa Econômica Federal;427;213001;Março de 2024;144;131;39,23;5649,12;2100;0 / Março de 2024;Abril de 2036;Novo contrato
+136203;Empréstimo Consignado;19/02/2025;Caixa Econômica Federal;427;5901;Março de 2025;144;143;916,2;131932,8;50266,58;0 / Março de 2025;Abril de 2037;Novo contrato
+134207;Empréstimo Consignado;10/05/2022;Caixa Econômica Federal;427;4251;Maio de 2022;144;109;377,99;54430,56;26817,89;0 / Maio de 2022;Junho de 2034;Novo contrato
+133387;Empréstimo Consignado;25/04/2022;Caixa Econômica Federal;427;196071;Maio de 2022;120;85;662,17;79460,4;39100;0 / Maio de 2022;Junho de 2032;Novo contrato
+134258;Empréstimo Consignado;20/05/2022;Caixa Econômica Federal;427;8061;Junho de 2022;144;111;480,2;69148,8;34069,68;1 / Julho de 2022;Agosto de 2034;Novo contrato
+135951;Empréstimo Consignado;24/05/2024;Caixa Econômica Federal;427;6401;Junho de 2024;144;134;300,45;43264,8;18291,1;0 / Junho de 2024;Julho de 2036;Renegociação
+135952;Empréstimo Consignado;24/05/2024;Caixa Econômica Federal;427;6401;Junho de 2024;144;134;207,27;29846,88;12618,4;0 / Junho de 2024;Julho de 2036;Renegociação
+135599;Empréstimo Consignado;05/06/2023;Banco do Brasil;404;8071;Junho de 2023;78;56;704,37;54940,86;29488,82;0 / Junho de 2023;Janeiro de 2030;Novo contrato
+136131;Empréstimo Consignado;18/12/2024;Banco do Brasil;404;7391;Janeiro de 2025;72;69;2087,88;150327,36;69588,91;0 / Janeiro de 2025;Fevereiro de 2031;Novo contrato
+136172;Empréstimo Consignado;10/02/2025;Banco do Brasil;404;11821;Fevereiro de 2025;72;71;269;19368;8200;1 / Março de 2025;Abril de 2031;Novo contrato
+136223;Empréstimo Consignado;07/03/2025;Banco do Brasil;404;5841;Março de 2025;72;72;203,85;14677,2;6100;1 / Abril de 2025;Maio de 2031;Novo contrato
+136211;Empréstimo Consignado;25/02/2025;Banco do Brasil;404;6701;Março de 2025;72;71;83,47;6009,84;2800;0 / Março de 2025;Abril de 2031;Novo contrato
+136232;Empréstimo Consignado;11/03/2025;Banco do Brasil;404;9041;Março de 2025;72;72;1838,01;132336,72;58503,34;1 / Abril de 2025;Maio de 2031;Novo contrato
+136222;Empréstimo Consignado;07/03/2025;Banco do Brasil;404;201091;Março de 2025;31;31;407,43;12630,33;5846,31;1 / Abril de 2025;Dezembro de 2027;Novo contrato
+136233;Empréstimo Consignado;11/03/2025;Banco do Brasil;404;203201;Março de 2025;72;72;1076,82;77531,04;35031,74;1 / Abril de 2025;Maio de 2031;Novo contrato
+136231;Empréstimo Consignado;11/03/2025;Banco do Brasil;404;203461;Março de 2025;36;36;661,86;23826,96;15000;1 / Abril de 2025;Maio de 2028;Novo contrato
+136251;Empréstimo Consignado;03/04/2025;Banco do Brasil;404;5101;Abril de 2025;72;72;1723,26;124074,72;51048,07;1 / Maio de 2025;Maio de 2031;Novo contrato
+136241;Empréstimo Consignado;18/03/2025;Banco do Brasil;404;7791;Abril de 2025;46;46;197,6;9089,6;5000;0 / Abril de 2025;Março de 2029;Novo contrato
+136254;Empréstimo Consignado;03/04/2025;Banco do Brasil;404;11821;Abril de 2025;72;72;116,46;8385,12;3400;1 / Maio de 2025;Maio de 2031;Novo contrato
+133395;Empréstimo Consignado;05/05/2022;Caixa Econômica Federal;427;1871;Maio de 2022;144;109;406,99;58606,56;28875,75;0 / Maio de 2022;Junho de 2034;Novo contrato
+133394;Empréstimo Consignado;03/05/2022;Caixa Econômica Federal;427;8921;Maio de 2022;144;109;40,75;5868;2530,29;0 / Maio de 2022;Junho de 2034;Novo contrato
+133393;Empréstimo Consignado;29/04/2022;Caixa Econômica Federal;427;181391;Maio de 2022;144;109;286,25;41220;20309,11;0 / Maio de 2022;Junho de 2034;Novo contrato
+134293;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;4881;Junho de 2022;120;86;139,15;16698;9116,71;0 / Junho de 2022;Julho de 2032;Renegociação
+134294;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;5001;Junho de 2022;119;85;450;53550;29482,71;0 / Junho de 2022;Junho de 2032;Renegociação
+135228;Empréstimo Consignado;14/06/2022;Caixa Econômica Federal;427;6161;Junho de 2022;144;110;459;66096;32565,44;0 / Junho de 2022;Julho de 2034;Renegociação
+134295;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;6561;Junho de 2022;119;85;499;59381;32693,05;0 / Junho de 2022;Junho de 2032;Renegociação
+134296;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;7201;Junho de 2022;90;56;214,6;19314;12160,24;0 / Junho de 2022;Janeiro de 2030;Renegociação
+134301;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;7541;Junho de 2022;81;49;313,69;25408,89;16712,64;0 / Junho de 2022;Junho de 2029;Renegociação
+134300;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;7541;Junho de 2022;93;61;57,48;5345,64;3317,78;0 / Junho de 2022;Junho de 2030;Renegociação
+134302;Empréstimo Consignado;27/05/2022;Caixa Econômica Federal;427;7882;Junho de 2022;119;85;50,42;5999,98;2810,37;0 / Junho de 2022;Junho de 2032;Renegociação
+135490;Empréstimo Consignado;09/02/2023;Caixa Econômica Federal;427;4511;Fevereiro de 2023;144;118;89,81;12932,64;4816,78;0 / Fevereiro de 2023;Março de 2035;Novo contrato
+135626;Empréstimo Consignado;23/06/2023;Caixa Econômica Federal;427;6161;Julho de 2023;144;123;18,31;2636,64;1072,3;0 / Julho de 2023;Agosto de 2035;Novo contrato
+135660;Empréstimo Consignado;28/07/2023;Caixa Econômica Federal;427;7161;Agosto de 2023;144;124;300;43200;17826,43;0 / Agosto de 2023;Setembro de 2035;Novo contrato
+135699;Empréstimo Consignado;04/09/2023;Caixa Econômica Federal;427;7161;Setembro de 2023;144;125;123;17712;7308,83;0 / Setembro de 2023;Outubro de 2035;Novo contrato
+135723;Empréstimo Consignado;28/09/2023;Caixa Econômica Federal;427;224381;Outubro de 2023;144;126;671,68;96721,92;40891,38;0 / Outubro de 2023;Novembro de 2035;Novo contrato
+135778;Empréstimo Consignado;21/12/2023;Caixa Econômica Federal;427;224381;Janeiro de 2024;144;129;234,95;33832,8;14303,7;0 / Janeiro de 2024;Fevereiro de 2036;Novo contrato
+135816;Empréstimo Consignado;08/02/2024;Caixa Econômica Federal;427;224381;Fevereiro de 2024;144;130;250,85;36122,4;15271,5;0 / Fevereiro de 2024;Março de 2036;Novo contrato
+135836;Empréstimo Consignado;29/02/2024;Caixa Econômica Federal;427;11211;Março de 2024;144;131;333,99;48094,56;20332,77;0 / Março de 2024;Abril de 2036;Novo contrato
+135827;Empréstimo Consignado;22/02/2024;Caixa Econômica Federal;427;181471;Março de 2024;111;98;139,08;15437,88;7620,03;0 / Março de 2024;Julho de 2033;Novo contrato
+135935;Empréstimo Consignado;15/05/2024;Caixa Econômica Federal;427;5541;Junho de 2024;144;134;1249,38;179910,72;79026,56;0 / Junho de 2024;Julho de 2036;Renegociação
+135938;Empréstimo Consignado;15/05/2024;Caixa Econômica Federal;427;5541;Junho de 2024;144;134;290,74;41866,56;17421,2;0 / Junho de 2024;Julho de 2036;Renegociação
+135981;Empréstimo Consignado;12/06/2024;Caixa Econômica Federal;427;2631;Julho de 2024;90;81;185,51;16695,9;9259,01;0 / Julho de 2024;Fevereiro de 2032;Novo contrato
+135980;Empréstimo Consignado;12/06/2024;Caixa Econômica Federal;427;2631;Julho de 2024;89;80;519,23;46211,47;25774,14;0 / Julho de 2024;Janeiro de 2032;Novo contrato
+135984;Empréstimo Consignado;18/06/2024;Caixa Econômica Federal;427;8921;Julho de 2024;144;135;169;24336;10139,61;0 / Julho de 2024;Agosto de 2036;Renegociação
+135985;Empréstimo Consignado;18/06/2024;Caixa Econômica Federal;427;8921;Julho de 2024;144;135;1003,05;144439,2;60180,67;0 / Julho de 2024;Agosto de 2036;Renegociação
+136029;Empréstimo Consignado;31/07/2024;Caixa Econômica Federal;427;1871;Agosto de 2024;144;136;105,74;15226,56;6610,77;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136030;Empréstimo Consignado;31/07/2024;Caixa Econômica Federal;427;1871;Agosto de 2024;144;136;33,55;4831,2;2064,59;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136031;Empréstimo Consignado;31/07/2024;Caixa Econômica Federal;427;1871;Agosto de 2024;144;136;48,6;6998,4;3002,92;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136019;Empréstimo Consignado;22/07/2024;Caixa Econômica Federal;427;2711;Agosto de 2024;144;136;1000;144000;63020,52;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136020;Empréstimo Consignado;22/07/2024;Caixa Econômica Federal;427;2711;Agosto de 2024;144;136;304,75;43884;20202,82;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136036;Empréstimo Consignado;07/08/2024;Caixa Econômica Federal;427;5581;Agosto de 2024;144;136;1536,1;221198,4;93516,27;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136057;Empréstimo Consignado;28/08/2024;Caixa Econômica Federal;427;232641;Setembro de 2024;120;113;476,6;57192;24124,16;0 / Setembro de 2024;Outubro de 2034;Novo contrato
+136075;Empréstimo Consignado;24/09/2024;Caixa Econômica Federal;427;232481;Outubro de 2024;144;138;568,92;81924,48;29502,75;0 / Outubro de 2024;Novembro de 2036;Novo contrato
+136070;Empréstimo Consignado;13/09/2024;Caixa Econômica Federal;427;232991;Outubro de 2024;144;138;589,99;84958,56;31243,67;0 / Outubro de 2024;Novembro de 2036;Novo contrato
+136098;Empréstimo Consignado;04/11/2024;Caixa Econômica Federal;427;232991;Novembro de 2024;144;139;153,21;22062,24;7683,19;0 / Novembro de 2024;Dezembro de 2036;Novo contrato
+136153;Empréstimo Consignado;30/01/2025;Caixa Econômica Federal;427;232481;Fevereiro de 2025;144;142;197,01;28369,44;10270;0 / Fevereiro de 2025;Março de 2037;Novo contrato
+136121;Empréstimo Consignado;06/12/2024;Banco do Brasil;404;5841;Dezembro de 2024;72;68;70,03;5042,16;2100;0 / Dezembro de 2024;Janeiro de 2031;Novo contrato
+136134;Empréstimo Consignado;20/12/2024;Banco do Brasil;404;1941;Janeiro de 2025;72;69;1732,99;124775,28;64705,72;0 / Janeiro de 2025;Fevereiro de 2031;Novo contrato
+136133;Empréstimo Consignado;19/12/2024;Banco do Brasil;404;2611;Janeiro de 2025;72;69;1900,37;136826,64;72300,92;0 / Janeiro de 2025;Fevereiro de 2031;Novo contrato
+136201;Empréstimo Consignado;17/02/2025;Banco do Brasil;404;1771;Março de 2025;72;71;214,06;15412,32;7250;0 / Março de 2025;Abril de 2031;Novo contrato
+133396;Empréstimo Consignado;05/05/2022;Caixa Econômica Federal;427;4511;Maio de 2022;144;109;572,58;82451,52;40623,7;0 / Maio de 2022;Junho de 2034;Novo contrato
+134251;Empréstimo Consignado;19/05/2022;Caixa Econômica Federal;427;6401;Junho de 2022;144;111;582,97;83947,68;41360,93;1 / Julho de 2022;Agosto de 2034;Renegociação
+135290;Empréstimo Consignado;22/07/2022;Caixa Econômica Federal;427;5541;Agosto de 2022;144;112;288,76;41581,44;17409,1;0 / Agosto de 2022;Setembro de 2034;Novo contrato
+135299;Empréstimo Consignado;01/08/2022;Caixa Econômica Federal;427;11211;Agosto de 2022;144;112;500;72000;29710,71;0 / Agosto de 2022;Setembro de 2034;Novo contrato
+135361;Empréstimo Consignado;16/09/2022;Caixa Econômica Federal;427;6301;Outubro de 2022;144;114;552,02;79490,88;31429,67;0 / Outubro de 2022;Novembro de 2034;Novo contrato
+135530;Empréstimo Consignado;23/03/2023;Caixa Econômica Federal;427;4251;Abril de 2023;144;120;32,97;4747,68;1792,43;0 / Abril de 2023;Maio de 2035;Novo contrato
+135590;Empréstimo Consignado;29/05/2023;Caixa Econômica Federal;427;4611;Junho de 2023;144;126;74,19;10683,36;4345,57;0 / Junho de 2023;Novembro de 2035;Novo contrato
+135587;Empréstimo Consignado;29/05/2023;Caixa Econômica Federal;427;5581;Junho de 2023;144;122;312,13;44946,72;18282,57;0 / Junho de 2023;Julho de 2035;Novo contrato
+135583;Empréstimo Consignado;26/05/2023;Caixa Econômica Federal;427;6551;Junho de 2023;144;122;1015,16;146183,04;60322,05;0 / Junho de 2023;Julho de 2035;Novo contrato
+136097;Empréstimo Consignado;04/11/2024;Caixa Econômica Federal;427;4891;Novembro de 2024;144;139;1225;176400;69464,21;0 / Novembro de 2024;Dezembro de 2036;Renegociação
+136190;Empréstimo Consignado;12/02/2025;Caixa Econômica Federal;427;2711;Março de 2025;144;143;64,54;9293,76;3239,61;0 / Março de 2025;Abril de 2037;Novo contrato
+136219;Empréstimo Consignado;06/03/2025;Caixa Econômica Federal;427;5581;Março de 2025;144;143;586;84384;32150,42;0 / Março de 2025;Abril de 2037;Novo contrato
+136277;Empréstimo Consignado;17/04/2025;Caixa Econômica Federal;427;2711;Maio de 2025;144;144;130,14;18740,16;7479,63;0 / Maio de 2025;Maio de 2037;Novo contrato
+135638;Empréstimo Consignado;06/07/2023;Caixa Econômica Federal;427;213001;Julho de 2023;120;99;81,88;9825,6;4583,44;0 / Julho de 2023;Agosto de 2033;Novo contrato
+135708;Empréstimo Consignado;06/09/2023;Caixa Econômica Federal;427;213001;Setembro de 2023;144;125;51,76;7453,44;2254,88;0 / Setembro de 2023;Outubro de 2035;Novo contrato
+136101;Empréstimo Consignado;13/11/2024;Caixa Econômica Federal;427;232801;Dezembro de 2024;144;140;743;106992;38291,91;0 / Dezembro de 2024;Janeiro de 2037;Novo contrato
+136094;Empréstimo Consignado;28/10/2024;Caixa Econômica Federal;427;2711;Novembro de 2024;144;139;200,12;28817,28;12006,74;0 / Novembro de 2024;Dezembro de 2036;Renegociação
+135182;Empréstimo Consignado;09/06/2022;Caixa Econômica Federal;427;197121;Junho de 2022;60;27;694,52;41671,2;26000;1 / Julho de 2022;Agosto de 2027;Novo contrato
+134323;Empréstimo Consignado;31/05/2022;Banco Bradesco;424;2181;Junho de 2022;34;27;376,86;12813,24;10000;0 / Junho de 2022;Agosto de 2027;Renegociação
+134320;Empréstimo Consignado;31/05/2022;Banco Bradesco;424;5851;Junho de 2022;45;11;1058,42;47628,9;36000;0 / Junho de 2022;Abril de 2026;Renegociação
+134324;Empréstimo Consignado;31/05/2022;Banco Bradesco;424;7081;Junho de 2022;94;60;1357,85;127637,9;72000;0 / Junho de 2022;Maio de 2030;Renegociação
+134241;Empréstimo Consignado;17/05/2022;Banco Bradesco;424;7441;Junho de 2022;120;86;130,29;15634,8;6500;0 / Junho de 2022;Julho de 2032;Novo contrato
+134322;Empréstimo Consignado;31/05/2022;Banco Bradesco;424;192911;Junho de 2022;69;35;712;49128;28205,34;0 / Junho de 2022;Abril de 2028;Renegociação
+135368;Empréstimo Consignado;27/09/2022;Banco Bradesco;424;3731;Outubro de 2022;48;18;184,67;8864,16;5930,59;0 / Outubro de 2022;Novembro de 2026;Novo contrato
+135369;Empréstimo Consignado;28/09/2022;Banco Bradesco;424;181121;Outubro de 2022;120;101;394,27;47312,4;17336,88;3 / Janeiro de 2023;Outubro de 2033;Novo contrato
+135465;Empréstimo Consignado;01/02/2023;Banco Bradesco;424;2891;Fevereiro de 2023;120;99;35,66;4279,2;1639,77;1 / Março de 2023;Agosto de 2033;Novo contrato
+135471;Empréstimo Consignado;02/02/2023;Banco Bradesco;424;3711;Fevereiro de 2023;120;118;33,88;4065,6;1350;1 / Março de 2023;Março de 2035;Novo contrato
+135484;Empréstimo Consignado;08/02/2023;Banco Bradesco;424;3741;Fevereiro de 2023;120;120;37,5;4500;1500;1 / Março de 2023;Maio de 2035;Novo contrato
+135472;Empréstimo Consignado;02/02/2023;Banco Bradesco;424;3841;Fevereiro de 2023;120;95;60,22;7226,4;2400;1 / Março de 2023;Abril de 2033;Novo contrato
+135470;Empréstimo Consignado;02/02/2023;Banco Bradesco;424;4291;Fevereiro de 2023;120;108;49,03;5883,6;2180;1 / Março de 2023;Maio de 2034;Novo contrato
+135485;Empréstimo Consignado;08/02/2023;Banco Bradesco;424;6621;Fevereiro de 2023;120;95;129,98;15597,6;5200;1 / Março de 2023;Abril de 2033;Novo contrato
+135482;Empréstimo Consignado;07/02/2023;Banco Bradesco;424;7441;Fevereiro de 2023;120;95;28,26;3391,2;1130;1 / Março de 2023;Abril de 2033;Novo contrato
+135459;Empréstimo Consignado;26/01/2023;Banco Bradesco;424;7931;Fevereiro de 2023;60;35;698,26;41895,6;24778,23;1 / Março de 2023;Abril de 2028;Novo contrato
+135469;Empréstimo Consignado;02/02/2023;Banco Bradesco;424;9861;Fevereiro de 2023;120;113;31,04;3724,8;1380;1 / Março de 2023;Outubro de 2034;Novo contrato
+135481;Empréstimo Consignado;07/02/2023;Banco Bradesco;424;177521;Fevereiro de 2023;120;119;70,04;8404,8;2800;1 / Março de 2023;Abril de 2035;Novo contrato
+135462;Empréstimo Consignado;27/01/2023;Banco Bradesco;424;177521;Fevereiro de 2023;120;118;294,47;35336,4;13300;0 / Fevereiro de 2023;Março de 2035;Novo contrato
+135492;Empréstimo Consignado;09/02/2023;Banco Bradesco;424;182101;Fevereiro de 2023;120;95;1006,73;120807,6;40300;1 / Março de 2023;Abril de 2033;Novo contrato
+135461;Empréstimo Consignado;27/01/2023;Banco Bradesco;424;199921;Fevereiro de 2023;60;34;933,89;56033,4;30966,87;0 / Fevereiro de 2023;Março de 2028;Renegociação
+135502;Empréstimo Consignado;17/02/2023;Banco Bradesco;424;6841;Março de 2023;120;95;115,57;13868,4;4650;0 / Março de 2023;Abril de 2033;Novo contrato
+135811;Empréstimo Consignado;07/02/2024;Banco Bradesco;424;2081;Fevereiro de 2024;120;108;43,04;5164,8;1962,95;2 / Abril de 2024;Maio de 2034;Novo contrato
+135799;Empréstimo Consignado;02/02/2024;Banco Bradesco;424;2461;Fevereiro de 2024;120;108;42,18;5061,6;1917,62;2 / Abril de 2024;Maio de 2034;Novo contrato
+135796;Empréstimo Consignado;01/02/2024;Banco Bradesco;424;2891;Fevereiro de 2024;120;112;65,07;7808,4;2560;2 / Abril de 2024;Setembro de 2034;Novo contrato
+135798;Empréstimo Consignado;02/02/2024;Banco Bradesco;424;3621;Fevereiro de 2024;120;110;35,56;4267,2;1616,7;2 / Abril de 2024;Julho de 2034;Novo contrato
+135808;Empréstimo Consignado;05/02/2024;Banco Bradesco;424;4251;Fevereiro de 2024;120;108;40,28;4833,6;1834,6;2 / Abril de 2024;Maio de 2034;Novo contrato
+135809;Empréstimo Consignado;06/02/2024;Banco Bradesco;424;5601;Fevereiro de 2024;120;108;164,95;19794;6836,2;2 / Abril de 2024;Maio de 2034;Renegociação
+135802;Empréstimo Consignado;02/02/2024;Banco Bradesco;424;6201;Fevereiro de 2024;120;108;74,84;8980,8;3042,31;2 / Abril de 2024;Maio de 2034;Novo contrato
+135813;Empréstimo Consignado;07/02/2024;Banco Bradesco;424;6651;Fevereiro de 2024;120;108;76,85;9222;3035,19;2 / Abril de 2024;Maio de 2034;Novo contrato
+135806;Empréstimo Consignado;05/02/2024;Banco Bradesco;424;6791;Fevereiro de 2024;48;36;380,8;18278,4;11160,03;2 / Abril de 2024;Maio de 2028;Renegociação
+135810;Empréstimo Consignado;06/02/2024;Banco Bradesco;424;7281;Fevereiro de 2024;120;108;40,62;4874,4;1851,37;2 / Abril de 2024;Maio de 2034;Novo contrato
+135803;Empréstimo Consignado;02/02/2024;Banco Bradesco;424;7801;Fevereiro de 2024;120;108;33,39;4006,8;1517,88;2 / Abril de 2024;Maio de 2034;Novo contrato
+135812;Empréstimo Consignado;07/02/2024;Banco Bradesco;424;28954;Fevereiro de 2024;60;48;539,33;32359,8;16073,97;2 / Abril de 2024;Maio de 2029;Renegociação
+135788;Empréstimo Consignado;18/01/2024;Banco Bradesco;424;202221;Fevereiro de 2024;120;106;267,62;32114,4;10600;0 / Fevereiro de 2024;Março de 2034;Novo contrato
+136095;Empréstimo Consignado;01/11/2024;Banco Bradesco;424;7041;Novembro de 2024;120;115;1915,84;229900,8;96820,67;0 / Novembro de 2024;Dezembro de 2034;Renegociação
+136096;Empréstimo Consignado;01/11/2024;Banco Bradesco;424;181391;Novembro de 2024;120;115;323,21;38785,2;14627,6;0 / Novembro de 2024;Dezembro de 2034;Novo contrato
+136099;Empréstimo Consignado;11/11/2024;Banco Bradesco;424;7921;Dezembro de 2024;120;116;224,29;26914,8;10400;0 / Dezembro de 2024;Janeiro de 2035;Novo contrato
+136138;Empréstimo Consignado;30/12/2024;Banco Bradesco;424;7371;Janeiro de 2025;120;117;1985,36;238243,2;105813,48;0 / Janeiro de 2025;Fevereiro de 2035;Renegociação
+136242;Empréstimo Consignado;21/03/2025;Banco Bradesco;424;6621;Abril de 2025;100;100;153,33;15333;4596,3;0 / Abril de 2025;Setembro de 2033;Novo contrato
+135671;Empréstimo Consignado;08/08/2023;Caixa Econômica Federal;427;7441;Agosto de 2023;144;125;218,13;31410,72;12961,59;1 / Setembro de 2023;Outubro de 2035;Renegociação
+135670;Empréstimo Consignado;08/08/2023;Caixa Econômica Federal;427;7441;Agosto de 2023;144;125;286,71;41286,24;17036,72;1 / Setembro de 2023;Outubro de 2035;Renegociação
+135957;Empréstimo Consignado;29/05/2024;Caixa Econômica Federal;427;7441;Junho de 2024;144;134;121,82;17542,08;7416,28;0 / Junho de 2024;Julho de 2036;Renegociação
+133391;Empréstimo Consignado;28/04/2022;Caixa Econômica Federal;427;5901;Maio de 2022;144;109;1061,38;152838,72;75303,82;0 / Maio de 2022;Junho de 2034;Renegociação
+133386;Empréstimo Consignado;18/04/2022;Caixa Econômica Federal;427;5901;Maio de 2022;120;86;389,49;46738,8;18450;1 / Junho de 2022;Julho de 2032;Renegociação
+135388;Empréstimo Consignado;10/10/2022;Caixa Econômica Federal;427;5901;Outubro de 2022;142;112;208,12;29553,04;14000;0 / Outubro de 2022;Setembro de 2034;Renegociação
+136139;Empréstimo Consignado;02/01/2025;Banco do Brasil;404;1951;Janeiro de 2025;48;46;1287,38;61794,24;34000;1 / Fevereiro de 2025;Março de 2029;Novo contrato
+135522;Empréstimo Consignado;10/03/2023;Caixa Econômica Federal;427;213001;Março de 2023;120;95;168;20160;8681,23;0 / Março de 2023;Abril de 2033;Novo contrato
+135741;Empréstimo Consignado;06/11/2023;Caixa Econômica Federal;427;2081;Novembro de 2023;144;127;452,57;65170,08;26250;0 / Novembro de 2023;Dezembro de 2035;Novo contrato
+135832;Empréstimo Consignado;23/02/2024;Caixa Econômica Federal;427;181471;Março de 2024;144;131;115,71;16662,24;7113,6;0 / Março de 2024;Abril de 2036;Renegociação
+135829;Empréstimo Consignado;23/02/2024;Caixa Econômica Federal;427;181471;Março de 2024;144;131;579,95;83512,8;30831,25;0 / Março de 2024;Abril de 2036;Renegociação
+135930;Empréstimo Consignado;13/05/2024;Caixa Econômica Federal;427;224381;Junho de 2024;144;134;93;13392;5661,75;0 / Junho de 2024;Julho de 2036;Novo contrato
+136039;Empréstimo Consignado;09/08/2024;Caixa Econômica Federal;427;6491;Agosto de 2024;144;136;604;86976;38008,81;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136038;Empréstimo Consignado;09/08/2024;Caixa Econômica Federal;427;7161;Agosto de 2024;144;136;648;93312;40860,59;0 / Agosto de 2024;Setembro de 2036;Renegociação
+136017;Empréstimo Consignado;19/07/2024;Caixa Econômica Federal;427;178411;Agosto de 2024;24;16;213,66;5127,84;4314,77;0 / Agosto de 2024;Setembro de 2026;Novo contrato
+136025;Empréstimo Consignado;24/07/2024;Caixa Econômica Federal;427;202491;Agosto de 2024;130;122;880,2;114426;58317,23;0 / Agosto de 2024;Julho de 2035;Renegociação
+136044;Empréstimo Consignado;14/08/2024;Caixa Econômica Federal;427;4611;Setembro de 2024;144;141;689;99216;40869,79;0 / Setembro de 2024;Fevereiro de 2037;Renegociação
+136043;Empréstimo Consignado;13/08/2024;Caixa Econômica Federal;427;202491;Setembro de 2024;120;113;100;12000;5720,4;0 / Setembro de 2024;Outubro de 2034;Novo contrato
+136148;Empréstimo Consignado;09/01/2025;Caixa Econômica Federal;427;203111;Janeiro de 2025;144;141;666,62;95993,28;37126,81;0 / Janeiro de 2025;Fevereiro de 2037;Renegociação
+136151;Empréstimo Consignado;20/01/2025;Caixa Econômica Federal;427;4891;Fevereiro de 2025;144;142;283,5;40824;15554;0 / Fevereiro de 2025;Março de 2037;Novo contrato
+136100;Empréstimo Consignado;12/11/2024;Caixa Econômica Federal;427;11221;Dezembro de 2024;144;140;73;10512;3857,45;0 / Dezembro de 2024;Janeiro de 2037;Novo contrato
+134210;Empréstimo Consignado;11/05/2022;Banco Bradesco;424;3791;Maio de 2022;60;26;275,16;16509,6;9506;1 / Junho de 2022;Julho de 2027;Novo contrato
+134212;Empréstimo Consignado;11/05/2022;Banco Bradesco;424;5811;Maio de 2022;96;92;2013,27;193273,92;88051,25;1 / Junho de 2022;Janeiro de 2033;Renegociação
+134264;Empréstimo Consignado;24/05/2022;Banco Bradesco;424;2511;Junho de 2022;120;86;310;37200;13629,91;0 / Junho de 2022;Julho de 2032;Renegociação
+134234;Empréstimo Consignado;13/05/2022;Banco Bradesco;424;2561;Junho de 2022;120;105;528,12;63374,4;28797,62;0 / Junho de 2022;Fevereiro de 2034;Renegociação
+134230;Empréstimo Consignado;13/05/2022;Banco Bradesco;424;2571;Junho de 2022;120;86;565,01;67801,2;34533,57;0 / Junho de 2022;Julho de 2032;Renegociação
+134276;Empréstimo Consignado;26/05/2022;Banco Bradesco;424;2891;Junho de 2022;120;90;479,49;57538,8;29027,1;0 / Junho de 2022;Novembro de 2032;Novo contrato
+134263;Empréstimo Consignado;23/05/2022;Banco Bradesco;424;3741;Junho de 2022;120;112;433,48;52017,6;22447,8;0 / Junho de 2022;Setembro de 2034;Renegociação
+134312;Empréstimo Consignado;30/05/2022;Banco Bradesco;424;4321;Junho de 2022;120;86;146,11;17533,2;7602,69;0 / Junho de 2022;Julho de 2032;Novo contrato
+135168;Empréstimo Consignado;06/06/2022;Banco Bradesco;424;4501;Junho de 2022;120;87;553,29;66394,8;28424,24;1 / Julho de 2022;Agosto de 2032;Renegociação
+134237;Empréstimo Consignado;16/05/2022;Banco Bradesco;424;5341;Junho de 2022;120;100;1837,07;220448,4;105888,55;0 / Junho de 2022;Setembro de 2033;Renegociação
+134308;Empréstimo Consignado;30/05/2022;Banco Bradesco;424;5341;Junho de 2022;120;100;357,11;42853,2;18803,25;0 / Junho de 2022;Setembro de 2033;Novo contrato
+134341;Empréstimo Consignado;02/06/2022;Banco Bradesco;424;5451;Junho de 2022;120;114;1633,28;195993,6;94387,69;1 / Julho de 2022;Novembro de 2034;Renegociação
+134340;Empréstimo Consignado;02/06/2022;Banco Bradesco;424;5811;Junho de 2022;94;90;73,39;6898,66;3225,76;0 / Junho de 2022;Novembro de 2032;Novo contrato
+134243;Empréstimo Consignado;17/05/2022;Banco Bradesco;424;5871;Junho de 2022;120;86;1925,11;231013,2;99816,22;0 / Junho de 2022;Julho de 2032;Renegociação
+134307;Empréstimo Consignado;30/05/2022;Banco Bradesco;424;7441;Junho de 2022;120;86;24,88;2985,6;1293,03;0 / Junho de 2022;Julho de 2032;Renegociação
+134216;Empréstimo Consignado;12/05/2022;Banco Bradesco;424;8531;Junho de 2022;120;86;1092,39;131086,8;67417,24;0 / Junho de 2022;Julho de 2032;Renegociação
+134224;Empréstimo Consignado;12/05/2022;Banco Bradesco;424;9131;Junho de 2022;120;86;844,53;101343,6;38453,27;0 / Junho de 2022;Julho de 2032;Renegociação
+134291;Empréstimo Consignado;26/05/2022;Banco Bradesco;424;9181;Junho de 2022;120;88;726,46;87175,2;37640,55;0 / Junho de 2022;Setembro de 2032;Renegociação
+134221;Empréstimo Consignado;12/05/2022;Banco Bradesco;424;9641;Junho de 2022;120;86;49,56;5947,2;2222,66;0 / Junho de 2022;Julho de 2032;Renegociação
+134275;Empréstimo Consignado;26/05/2022;Banco Bradesco;424;11821;Junho de 2022;120;86;1517,73;182127,6;79118,71;0 / Junho de 2022;Julho de 2032;Renegociação
+135169;Empréstimo Consignado;06/06/2022;Banco Bradesco;424;48554;Junho de 2022;48;15;734,85;35272,8;22000;1 / Julho de 2022;Agosto de 2026;Novo contrato
+134267;Empréstimo Consignado;24/05/2022;Banco Bradesco;424;177601;Junho de 2022;120;112;356,42;42770,4;18467,49;0 / Junho de 2022;Setembro de 2034;Novo contrato
+135272;Empréstimo Consignado;11/07/2022;Banco Bradesco;424;4291;Julho de 2022;120;101;97,53;11703,6;4872,1;1 / Agosto de 2022;Outubro de 2033;Renegociação
+135273;Empréstimo Consignado;11/07/2022;Banco Bradesco;424;4291;Julho de 2022;120;101;22,5;2700;1126,35;1 / Agosto de 2022;Outubro de 2033;Renegociação
+135274;Empréstimo Consignado;11/07/2022;Banco Bradesco;424;4291;Julho de 2022;120;101;432,83;51939,6;21623,26;1 / Agosto de 2022;Outubro de 2033;Renegociação
+135252;Empréstimo Consignado;21/06/2022;Banco Bradesco;424;5111;Julho de 2022;120;97;411,7;49404;21227,51;0 / Julho de 2022;Junho de 2033;Renegociação
+135250;Empréstimo Consignado;21/06/2022;Banco Bradesco;424;5481;Julho de 2022;120;117;1639,32;196718,4;82330,42;0 / Julho de 2022;Fevereiro de 2035;Renegociação
+135225;Empréstimo Consignado;13/06/2022;Banco Bradesco;424;5731;Julho de 2022;120;109;1789,76;214771,2;91049,03;0 / Julho de 2022;Junho de 2034;Renegociação
+135261;Empréstimo Consignado;28/06/2022;Banco Bradesco;424;6621;Julho de 2022;120;87;465,14;55816,8;23399,98;0 / Julho de 2022;Agosto de 2032;Renegociação
+135262;Empréstimo Consignado;28/06/2022;Banco Bradesco;424;6621;Julho de 2022;120;87;119,44;14332,8;6008,44;0 / Julho de 2022;Agosto de 2032;Novo contrato
+135260;Empréstimo Consignado;28/06/2022;Banco Bradesco;424;7281;Julho de 2022;120;87;503,21;60385,2;25386,31;0 / Julho de 2022;Agosto de 2032;Renegociação
+135233;Empréstimo Consignado;15/06/2022;Banco Bradesco;424;7521;Julho de 2022;120;87;1401,08;168129,6;74705,75;0 / Julho de 2022;Agosto de 2032;Renegociação
+135232;Empréstimo Consignado;15/06/2022;Banco Bradesco;424;7521;Julho de 2022;120;87;470,3;56436;26281,76;0 / Julho de 2022;Agosto de 2032;Renegociação
+135249;Empréstimo Consignado;21/06/2022;Banco Bradesco;424;9691;Julho de 2022;120;107;537,85;64542;23868,59;0 / Julho de 2022;Abril de 2034;Renegociação
+135257;Empréstimo Consignado;23/06/2022;Banco Bradesco;424;203971;Julho de 2022;48;15;550,7;26433,6;16506;0 / Julho de 2022;Agosto de 2026;Novo contrato
+135270;Empréstimo Consignado;08/07/2022;Banco Bradesco;424;211211;Julho de 2022;72;40;1068,97;76965,84;47506;1 / Agosto de 2022;Setembro de 2028;Novo contrato
+135275;Empréstimo Consignado;12/07/2022;Banco Bradesco;424;2651;Agosto de 2022;59;27;1181,88;69730,92;46000;0 / Agosto de 2022;Agosto de 2027;Novo contrato
+135301;Empréstimo Consignado;03/08/2022;Banco Bradesco;424;3711;Agosto de 2022;120;111;455,84;54700,8;24037,17;0 / Agosto de 2022;Agosto de 2034;Renegociação
+135283;Empréstimo Consignado;20/07/2022;Banco Bradesco;424;7181;Agosto de 2022;120;88;338,8;40656;16855,02;0 / Agosto de 2022;Setembro de 2032;Renegociação
+135292;Empréstimo Consignado;25/07/2022;Banco Bradesco;424;9171;Agosto de 2022;120;88;550,98;66117,6;27743,03;0 / Agosto de 2022;Setembro de 2032;Renegociação
+135295;Empréstimo Consignado;26/07/2022;Banco Bradesco;424;106778;Agosto de 2022;84;52;1019,98;85678,32;43000;0 / Agosto de 2022;Setembro de 2029;Novo contrato
+135315;Empréstimo Consignado;11/08/2022;Banco Bradesco;424;177601;Agosto de 2022;120;118;309,81;37177,2;14447,74;4 / Dezembro de 2022;Março de 2035;Novo contrato
+135304;Empréstimo Consignado;08/08/2022;Banco Bradesco;424;189021;Agosto de 2022;120;91;206,1;24732;8450;3 / Novembro de 2022;Dezembro de 2032;Novo contrato
+135322;Empréstimo Consignado;16/08/2022;Banco Bradesco;424;5601;Setembro de 2022;120;92;1455,98;174717,6;74384,49;3 / Dezembro de 2022;Janeiro de 2033;Renegociação
+135321;Empréstimo Consignado;16/08/2022;Banco Bradesco;424;8281;Setembro de 2022;36;8;201,23;7244,28;5012,89;3 / Dezembro de 2022;Janeiro de 2026;Renegociação
+135333;Empréstimo Consignado;25/08/2022;Banco Bradesco;424;9861;Setembro de 2022;120;110;972,24;116668,8;46758,74;3 / Dezembro de 2022;Julho de 2034;Renegociação
+135325;Empréstimo Consignado;18/08/2022;Banco Bradesco;424;48554;Setembro de 2022;48;20;236;11328;7156,34;3 / Dezembro de 2022;Janeiro de 2027;Novo contrato
+135331;Empréstimo Consignado;22/08/2022;Banco Bradesco;424;206641;Setembro de 2022;60;32;703,01;42180,6;22012;3 / Dezembro de 2022;Janeiro de 2028;Novo contrato
+135390;Empréstimo Consignado;11/10/2022;Banco Bradesco;424;2321;Outubro de 2022;120;94;102,85;12342;4150;4 / Fevereiro de 2023;Março de 2033;Novo contrato
+135375;Empréstimo Consignado;05/10/2022;Banco Bradesco;424;2411;Outubro de 2022;120;99;124;14880;5762,83;4 / Fevereiro de 2023;Agosto de 2033;Renegociação
+135382;Empréstimo Consignado;07/10/2022;Banco Bradesco;424;6621;Outubro de 2022;120;94;273,25;32790;11000;4 / Fevereiro de 2023;Março de 2033;Novo contrato
+135378;Empréstimo Consignado;05/10/2022;Banco Bradesco;424;9161;Outubro de 2022;120;93;497,23;59667,6;26842,16;3 / Janeiro de 2023;Fevereiro de 2033;Renegociação
+135357;Empréstimo Consignado;15/09/2022;Banco Bradesco;424;9591;Outubro de 2022;120;93;388,75;46650;18176,43;3 / Janeiro de 2023;Fevereiro de 2033;Renegociação
+135346;Empréstimo Consignado;12/09/2022;Banco Bradesco;424;11831;Outubro de 2022;120;93;1630,35;195642;82496,14;3 / Janeiro de 2023;Fevereiro de 2033;Renegociação
+135384;Empréstimo Consignado;07/10/2022;Banco Bradesco;424;177601;Outubro de 2022;120;120;195;23400;7850;4 / Fevereiro de 2023;Maio de 2035;Novo contrato
+135358;Empréstimo Consignado;15/09/2022;Banco Bradesco;424;202221;Outubro de 2022;120;93;271,91;32629,2;11000;3 / Janeiro de 2023;Fevereiro de 2033;Novo contrato
+135380;Empréstimo Consignado;06/10/2022;Banco Bradesco;424;210671;Outubro de 2022;120;94;1061,28;127353,6;50000;4 / Fevereiro de 2023;Março de 2033;Novo contrato
+135400;Empréstimo Consignado;20/10/2022;Banco Bradesco;424;1641;Novembro de 2022;36;7;1017,03;36613,08;26765,12;0 / Novembro de 2022;Dezembro de 2025;Renegociação
+135417;Empréstimo Consignado;11/11/2022;Banco Bradesco;424;3741;Novembro de 2022;96;94;10,41;999,36;413,92;1 / Dezembro de 2022;Março de 2033;Novo contrato
+135395;Empréstimo Consignado;20/10/2022;Banco Bradesco;424;3861;Novembro de 2022;120;94;356,38;42765,6;18967,89;3 / Fevereiro de 2023;Março de 2033;Renegociação
+135394;Empréstimo Consignado;20/10/2022;Banco Bradesco;424;3861;Novembro de 2022;120;94;111,02;13322,4;5527,27;3 / Fevereiro de 2023;Março de 2033;Novo contrato
+135401;Empréstimo Consignado;27/10/2022;Banco Bradesco;424;5161;Novembro de 2022;120;94;147,32;17678,4;6000;3 / Fevereiro de 2023;Março de 2033;Novo contrato
+135416;Empréstimo Consignado;11/11/2022;Banco Bradesco;424;5591;Novembro de 2022;36;8;615,64;22163,04;15000;1 / Dezembro de 2022;Janeiro de 2026;Novo contrato
+135410;Empréstimo Consignado;07/11/2022;Banco Bradesco;424;6821;Novembro de 2022;120;95;546,34;65560,8;22000;4 / Março de 2023;Abril de 2033;Novo contrato
+135402;Empréstimo Consignado;28/10/2022;Banco Bradesco;424;9691;Novembro de 2022;120;114;196,31;23557,2;8000;3 / Fevereiro de 2023;Novembro de 2034;Novo contrato
+135413;Empréstimo Consignado;09/11/2022;Banco Bradesco;424;139514;Novembro de 2022;96;71;469,71;45092,16;17681,65;4 / Março de 2023;Abril de 2031;Novo contrato
+135392;Empréstimo Consignado;13/10/2022;Banco Bradesco;424;213501;Novembro de 2022;48;22;692,59;33244,32;21012;3 / Fevereiro de 2023;Março de 2027;Novo contrato
+135427;Empréstimo Consignado;02/12/2022;Banco Bradesco;424;2571;Dezembro de 2022;120;96;333,96;40075,2;14000;4 / Abril de 2023;Maio de 2033;Novo contrato
+135419;Empréstimo Consignado;14/11/2022;Banco Bradesco;424;6151;Dezembro de 2022;48;20;696,4;33427,2;21000;0 / Dezembro de 2022;Janeiro de 2027;Novo contrato
+135430;Empréstimo Consignado;05/12/2022;Banco Bradesco;424;6601;Dezembro de 2022;84;56;137,57;11555,88;5000;0 / Dezembro de 2022;Janeiro de 2030;Novo contrato
+135431;Empréstimo Consignado;06/12/2022;Banco Bradesco;424;9131;Dezembro de 2022;120;92;122,22;14666,4;5000;0 / Dezembro de 2022;Janeiro de 2033;Novo contrato
+135432;Empréstimo Consignado;06/12/2022;Banco Bradesco;424;9131;Dezembro de 2022;120;96;292,2;35064;11000;4 / Abril de 2023;Maio de 2033;Novo contrato
+135439;Empréstimo Consignado;13/12/2022;Banco Bradesco;424;8531;Janeiro de 2023;120;95;272,2;32664;10500;2 / Março de 2023;Abril de 2033;Novo contrato
+135457;Empréstimo Consignado;18/01/2023;Banco Bradesco;424;1981;Fevereiro de 2023;36;22;128,62;4630,32;3000;1 / Março de 2023;Março de 2027;Novo contrato
+135455;Empréstimo Consignado;16/01/2023;Banco Bradesco;424;181711;Fevereiro de 2023;120;101;723,95;86874;30138,57;0 / Fevereiro de 2023;Outubro de 2033;Renegociação
+135506;Empréstimo Consignado;02/03/2023;Banco Bradesco;424;2561;Março de 2023;120;118;38,65;4638;1450;4 / Julho de 2023;Março de 2035;Novo contrato
+135503;Empréstimo Consignado;22/02/2023;Banco Bradesco;424;4321;Março de 2023;120;95;49,55;5946;2000;0 / Março de 2023;Abril de 2033;Novo contrato
+135515;Empréstimo Consignado;07/03/2023;Banco Bradesco;424;23053;Março de 2023;120;96;50,71;6085,2;2309,43;1 / Abril de 2023;Maio de 2033;Novo contrato
+135513;Empréstimo Consignado;07/03/2023;Banco Bradesco;424;28954;Março de 2023;48;27;414,77;19908,96;11000;4 / Julho de 2023;Agosto de 2027;Novo contrato
+135542;Empréstimo Consignado;10/04/2023;Banco Bradesco;424;2601;Abril de 2023;120;97;768,22;92186,4;34383,06;1 / Maio de 2023;Junho de 2033;Renegociação
+135527;Empréstimo Consignado;20/03/2023;Banco Bradesco;424;3641;Abril de 2023;120;96;100,56;12067,2;4000;0 / Abril de 2023;Maio de 2033;Novo contrato
+135526;Empréstimo Consignado;20/03/2023;Banco Bradesco;424;3641;Abril de 2023;118;94;232,16;27394,88;11000;0 / Abril de 2023;Março de 2033;Novo contrato
+135540;Empréstimo Consignado;05/04/2023;Banco Bradesco;424;4431;Abril de 2023;120;97;126,89;15226,8;5773,74;1 / Maio de 2023;Junho de 2033;Novo contrato
+135541;Empréstimo Consignado;05/04/2023;Banco Bradesco;424;5111;Abril de 2023;120;107;39,34;4720,8;1550;1 / Maio de 2023;Abril de 2034;Novo contrato
+135578;Empréstimo Consignado;11/05/2023;Banco Bradesco;424;3271;Maio de 2023;120;98;120,28;14433,6;5094,86;1 / Junho de 2023;Julho de 2033;Renegociação
+135568;Empréstimo Consignado;08/05/2023;Banco Bradesco;424;4791;Maio de 2023;120;98;377,52;45302,4;16127,17;1 / Junho de 2023;Julho de 2033;Renegociação
+135571;Empréstimo Consignado;08/05/2023;Banco Bradesco;424;4941;Maio de 2023;66;44;427,07;28186,62;15512,45;1 / Junho de 2023;Janeiro de 2029;Novo contrato
+135570;Empréstimo Consignado;08/05/2023;Banco Bradesco;424;7121;Maio de 2023;60;38;597,82;35869,2;20678,9;1 / Junho de 2023;Julho de 2028;Novo contrato
+135555;Empréstimo Consignado;20/04/2023;Banco Bradesco;424;8051;Maio de 2023;120;100;592,64;71116,8;25626,48;3 / Agosto de 2023;Setembro de 2033;Renegociação
+135577;Empréstimo Consignado;11/05/2023;Banco Bradesco;424;194611;Maio de 2023;120;101;1035,96;124315,2;44555,4;4 / Setembro de 2023;Outubro de 2033;Novo contrato
+135592;Empréstimo Consignado;01/06/2023;Banco Bradesco;424;2411;Junho de 2023;120;103;363,58;43629,6;15867,3;0 / Junho de 2023;Dezembro de 2033;Renegociação
+135597;Empréstimo Consignado;05/06/2023;Banco Bradesco;424;2461;Junho de 2023;120;99;34,21;4105,2;1500;1 / Julho de 2023;Agosto de 2033;Novo contrato
+135588;Empréstimo Consignado;29/05/2023;Banco Bradesco;424;2721;Junho de 2023;96;77;533,49;51215,04;21000;3 / Setembro de 2023;Outubro de 2031;Novo contrato
+135607;Empréstimo Consignado;07/06/2023;Banco Bradesco;424;4321;Junho de 2023;120;99;287,38;34485,6;15027,9;1 / Julho de 2023;Agosto de 2033;Renegociação
+135594;Empréstimo Consignado;01/06/2023;Banco Bradesco;424;5601;Junho de 2023;120;98;205,67;24680,4;8846,41;0 / Junho de 2023;Julho de 2033;Renegociação
+135598;Empréstimo Consignado;05/06/2023;Banco Bradesco;424;7181;Junho de 2023;120;99;125,35;15042;5500;1 / Julho de 2023;Agosto de 2033;Novo contrato
+135612;Empréstimo Consignado;09/06/2023;Banco Bradesco;424;198951;Junho de 2023;72;51;873,32;62879,04;30000;1 / Julho de 2023;Agosto de 2029;Novo contrato
+135605;Empréstimo Consignado;07/06/2023;Banco Bradesco;424;222171;Junho de 2023;120;99;841,06;100927,2;37000;1 / Julho de 2023;Agosto de 2033;Novo contrato
+135596;Empréstimo Consignado;05/06/2023;Banco Bradesco;424;222411;Junho de 2023;120;100;1063,12;127574,4;46614,85;2 / Agosto de 2023;Setembro de 2033;Novo contrato
+135633;Empréstimo Consignado;04/07/2023;Banco Bradesco;424;4411;Julho de 2023;120;100;40,98;4917,6;1800;1 / Agosto de 2023;Setembro de 2033;Novo contrato
+135634;Empréstimo Consignado;04/07/2023;Banco Bradesco;424;4721;Julho de 2023;120;100;193,53;23223,6;8500;1 / Agosto de 2023;Setembro de 2033;Novo contrato
+135637;Empréstimo Consignado;06/07/2023;Banco Bradesco;424;4981;Julho de 2023;120;100;512,56;61507,2;24552,33;1 / Agosto de 2023;Setembro de 2033;Renegociação
+135630;Empréstimo Consignado;03/07/2023;Banco Bradesco;424;6461;Julho de 2023;120;100;45,57;5468,4;2000;1 / Agosto de 2023;Setembro de 2033;Novo contrato
+135635;Empréstimo Consignado;06/07/2023;Banco Bradesco;424;7281;Julho de 2023;120;100;51,19;6142,8;2250;1 / Agosto de 2023;Setembro de 2033;Novo contrato
+135614;Empréstimo Consignado;13/06/2023;Banco Bradesco;424;7882;Julho de 2023;120;99;16,97;2036,4;750;0 / Julho de 2023;Agosto de 2033;Novo contrato
+135639;Empréstimo Consignado;06/07/2023;Banco Bradesco;424;9021;Julho de 2023;120;100;1375,66;165079,2;60500;1 / Agosto de 2023;Setembro de 2033;Novo contrato
+135622;Empréstimo Consignado;16/06/2023;Banco Bradesco;424;188721;Julho de 2023;120;103;1106,6;132792;49000;0 / Julho de 2023;Dezembro de 2033;Novo contrato
+135615;Empréstimo Consignado;13/06/2023;Banco Bradesco;424;196311;Julho de 2023;120;100;979,29;117514,8;40733,47;1 / Agosto de 2023;Setembro de 2033;Renegociação
+135625;Empréstimo Consignado;22/06/2023;Banco Bradesco;424;206481;Julho de 2023;72;51;1052,47;75777,84;39000;0 / Julho de 2023;Agosto de 2029;Novo contrato
+135613;Empréstimo Consignado;13/06/2023;Banco Bradesco;424;210241;Julho de 2023;120;99;597,3;71676;24856,94;0 / Julho de 2023;Agosto de 2033;Renegociação
+135675;Empréstimo Consignado;11/08/2023;Banco Bradesco;424;3641;Agosto de 2023;120;101;55,98;6717,6;2070,28;1 / Setembro de 2023;Outubro de 2033;Novo contrato
+135658;Empréstimo Consignado;26/07/2023;Banco Bradesco;424;5871;Agosto de 2023;120;100;479,23;57507,6;21892,36;0 / Agosto de 2023;Setembro de 2033;Renegociação
+135656;Empréstimo Consignado;26/07/2023;Banco Bradesco;424;6341;Agosto de 2023;60;40;713,86;42831,6;23896,52;0 / Agosto de 2023;Setembro de 2028;Renegociação
+135652;Empréstimo Consignado;17/07/2023;Banco Bradesco;424;7071;Agosto de 2023;74;54;1495,81;110689,94;53382,52;0 / Agosto de 2023;Novembro de 2029;Novo contrato
+135651;Empréstimo Consignado;17/07/2023;Banco Bradesco;424;7071;Agosto de 2023;120;100;293,48;35217,6;13000;0 / Agosto de 2023;Setembro de 2033;Novo contrato
+135665;Empréstimo Consignado;02/08/2023;Banco Bradesco;424;7101;Agosto de 2023;120;101;165,22;19826,4;7504,23;1 / Setembro de 2023;Outubro de 2033;Novo contrato
+135659;Empréstimo Consignado;27/07/2023;Banco Bradesco;424;7181;Agosto de 2023;120;100;187,6;22512;8047,16;0 / Agosto de 2023;Setembro de 2033;Renegociação
+135661;Empréstimo Consignado;31/07/2023;Banco Bradesco;424;7441;Agosto de 2023;120;100;35,79;4294,8;1600;0 / Agosto de 2023;Setembro de 2033;Novo contrato
+135647;Empréstimo Consignado;12/07/2023;Banco Bradesco;424;7821;Agosto de 2023;120;100;464,39;55726,8;20490;0 / Agosto de 2023;Setembro de 2033;Novo contrato
+135655;Empréstimo Consignado;19/07/2023;Banco Bradesco;424;9591;Agosto de 2023;120;100;33,82;4058,4;1500;0 / Agosto de 2023;Setembro de 2033;Novo contrato
+135677;Empréstimo Consignado;11/08/2023;Banco Bradesco;424;194961;Agosto de 2023;50;31;460,81;23040,5;14455,05;1 / Setembro de 2023;Dezembro de 2027;Novo contrato
+135672;Empréstimo Consignado;08/08/2023;Banco Bradesco;424;212021;Agosto de 2023;84;65;394,94;33174,96;13000;1 / Setembro de 2023;Outubro de 2030;Novo contrato
+135646;Empréstimo Consignado;12/07/2023;Banco Bradesco;424;222171;Agosto de 2023;120;103;228,17;27380,4;9490;3 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135693;Empréstimo Consignado;25/08/2023;Banco Bradesco;424;2141;Setembro de 2023;120;101;599,62;71954,4;29033,64;0 / Setembro de 2023;Outubro de 2033;Renegociação
+135684;Empréstimo Consignado;23/08/2023;Banco Bradesco;424;2321;Setembro de 2023;120;101;132,85;15942;6114,91;0 / Setembro de 2023;Outubro de 2033;Novo contrato
+135696;Empréstimo Consignado;25/08/2023;Banco Bradesco;424;2421;Setembro de 2023;120;101;544,32;65318,4;30048,76;0 / Setembro de 2023;Outubro de 2033;Renegociação
+135688;Empréstimo Consignado;24/08/2023;Banco Bradesco;424;2421;Setembro de 2023;120;102;276,17;33140,4;11990;1 / Outubro de 2023;Novembro de 2033;Novo contrato
+135705;Empréstimo Consignado;06/09/2023;Banco Bradesco;424;4791;Setembro de 2023;120;102;113,38;13605,6;5164,57;1 / Outubro de 2023;Novembro de 2033;Novo contrato
+135682;Empréstimo Consignado;21/08/2023;Banco Bradesco;424;5291;Setembro de 2023;24;5;807,3;19375,2;15390,21;0 / Setembro de 2023;Outubro de 2025;Renegociação
+135679;Empréstimo Consignado;14/08/2023;Banco Bradesco;424;7031;Setembro de 2023;120;101;1091,23;130947,6;49684,51;0 / Setembro de 2023;Outubro de 2033;Renegociação
+135692;Empréstimo Consignado;24/08/2023;Banco Bradesco;424;8051;Setembro de 2023;120;101;190,95;22914;8794,54;0 / Setembro de 2023;Outubro de 2033;Novo contrato
+135680;Empréstimo Consignado;16/08/2023;Banco Bradesco;424;8901;Setembro de 2023;24;5;409,73;9833,52;7720,99;0 / Setembro de 2023;Outubro de 2025;Novo contrato
+135700;Empréstimo Consignado;04/09/2023;Banco Bradesco;424;9391;Setembro de 2023;36;18;224,62;8086,32;5677,18;1 / Outubro de 2023;Novembro de 2026;Novo contrato
+135678;Empréstimo Consignado;14/08/2023;Banco Bradesco;424;9581;Setembro de 2023;120;101;36,18;4341,6;1655,75;0 / Setembro de 2023;Outubro de 2033;Novo contrato
+135706;Empréstimo Consignado;06/09/2023;Banco Bradesco;424;11241;Setembro de 2023;120;104;880,09;105610,8;37184,49;3 / Dezembro de 2023;Janeiro de 2034;Renegociação
+135704;Empréstimo Consignado;06/09/2023;Banco Bradesco;424;15151;Setembro de 2023;120;115;364,34;43720,8;16297,75;1 / Outubro de 2023;Dezembro de 2034;Renegociação
+135718;Empréstimo Consignado;18/09/2023;Banco Bradesco;424;2311;Outubro de 2023;120;102;482,38;57885,6;20578,75;0 / Outubro de 2023;Novembro de 2033;Novo contrato
+135725;Empréstimo Consignado;04/10/2023;Banco Bradesco;424;2711;Outubro de 2023;120;103;101,27;12152,4;4605,88;1 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135717;Empréstimo Consignado;18/09/2023;Banco Bradesco;424;4601;Outubro de 2023;84;66;535,02;44941,68;20195,07;0 / Outubro de 2023;Novembro de 2030;Renegociação
+135728;Empréstimo Consignado;05/10/2023;Banco Bradesco;424;6271;Outubro de 2023;120;103;89,83;10779,6;4088,29;1 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135713;Empréstimo Consignado;12/09/2023;Banco Bradesco;424;6841;Outubro de 2023;120;103;650,38;78045,6;32589,92;1 / Novembro de 2023;Dezembro de 2033;Renegociação
+135730;Empréstimo Consignado;05/10/2023;Banco Bradesco;424;8031;Outubro de 2023;36;22;249,06;8966,16;5943,09;4 / Fevereiro de 2024;Março de 2027;Novo contrato
+135720;Empréstimo Consignado;21/09/2023;Banco Bradesco;424;14853;Outubro de 2023;120;102;1114,18;133701,6;58267,47;0 / Outubro de 2023;Novembro de 2033;Renegociação
+135727;Empréstimo Consignado;04/10/2023;Banco Bradesco;424;188721;Outubro de 2023;120;107;89,89;10786,8;4088,36;1 / Novembro de 2023;Abril de 2034;Novo contrato
+135721;Empréstimo Consignado;25/09/2023;Banco Bradesco;424;189021;Outubro de 2023;120;102;89,77;10772,4;4138,47;0 / Outubro de 2023;Novembro de 2033;Novo contrato
+135726;Empréstimo Consignado;04/10/2023;Banco Bradesco;424;192911;Outubro de 2023;120;103;421,02;50522,4;19148,03;1 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135736;Empréstimo Consignado;17/10/2023;Banco Bradesco;424;5041;Novembro de 2023;72;55;1251,87;90134,64;45310,01;0 / Novembro de 2023;Dezembro de 2029;Renegociação
+135746;Empréstimo Consignado;09/11/2023;Banco Bradesco;424;5221;Novembro de 2023;48;35;349,01;16752,48;9620,68;4 / Março de 2024;Abril de 2028;Renegociação
+135744;Empréstimo Consignado;08/11/2023;Banco Bradesco;424;6271;Novembro de 2023;120;104;563,96;67675,2;23331,42;1 / Dezembro de 2023;Janeiro de 2034;Renegociação
+135733;Empréstimo Consignado;13/10/2023;Banco Bradesco;424;6331;Novembro de 2023;72;58;47,11;3391,92;1690,68;3 / Fevereiro de 2024;Março de 2030;Novo contrato
+135747;Empréstimo Consignado;10/11/2023;Banco Bradesco;424;7101;Novembro de 2023;120;104;2048,91;245869,2;110939,44;1 / Dezembro de 2023;Janeiro de 2034;Renegociação
+135734;Empréstimo Consignado;13/10/2023;Banco Bradesco;424;9161;Novembro de 2023;120;103;64,61;7753,2;2949,52;0 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135738;Empréstimo Consignado;26/10/2023;Banco Bradesco;424;178171;Novembro de 2023;48;31;1069,13;51318,24;33041,06;0 / Novembro de 2023;Dezembro de 2027;Novo contrato
+135737;Empréstimo Consignado;23/10/2023;Banco Bradesco;424;222171;Novembro de 2023;120;103;25,08;3009,6;1154,36;0 / Novembro de 2023;Dezembro de 2033;Novo contrato
+135764;Empréstimo Consignado;27/11/2023;Banco Bradesco;424;4921;Dezembro de 2023;120;107;2114,22;253706,4;102818,89;3 / Março de 2024;Abril de 2034;Renegociação
+135767;Empréstimo Consignado;29/11/2023;Banco Bradesco;424;6301;Dezembro de 2023;120;104;489,64;58756,8;21050,35;0 / Dezembro de 2023;Janeiro de 2034;Renegociação
+135758;Empréstimo Consignado;20/11/2023;Banco Bradesco;424;139514;Dezembro de 2023;60;44;45;2700;1552,79;0 / Dezembro de 2023;Janeiro de 2029;Novo contrato
+135765;Empréstimo Consignado;28/11/2023;Banco Bradesco;424;194371;Dezembro de 2023;96;81;349,96;33596,16;14662;0 / Dezembro de 2023;Fevereiro de 2032;Novo contrato
+135753;Empréstimo Consignado;16/11/2023;Banco Bradesco;424;210751;Dezembro de 2023;48;32;201,75;9684;6197,66;0 / Dezembro de 2023;Janeiro de 2028;Novo contrato
+135774;Empréstimo Consignado;19/12/2023;Banco Bradesco;424;4681;Janeiro de 2024;96;81;351,67;33760,32;12529,39;0 / Janeiro de 2024;Fevereiro de 2032;Novo contrato
+135780;Empréstimo Consignado;28/12/2023;Banco Bradesco;424;4831;Janeiro de 2024;120;105;328,69;39442,8;14468,8;0 / Janeiro de 2024;Fevereiro de 2034;Renegociação
+135783;Empréstimo Consignado;04/01/2024;Banco Bradesco;424;23053;Janeiro de 2024;120;106;32,99;3958,8;1501,18;1 / Fevereiro de 2024;Março de 2034;Novo contrato
+135777;Empréstimo Consignado;20/12/2023;Banco Bradesco;424;201411;Janeiro de 2024;120;105;1148,24;137788,8;52760,58;0 / Janeiro de 2024;Fevereiro de 2034;Novo contrato
+135781;Empréstimo Consignado;04/01/2024;Banco Bradesco;424;205831;Janeiro de 2024;120;106;345,23;41427,6;16194,3;1 / Fevereiro de 2024;Março de 2034;Renegociação
+135782;Empréstimo Consignado;04/01/2024;Banco Bradesco;424;205831;Janeiro de 2024;120;106;741,83;89019,6;31346,42;1 / Fevereiro de 2024;Março de 2034;Renegociação
+135784;Empréstimo Consignado;04/01/2024;Banco Bradesco;424;223901;Janeiro de 2024;120;106;355,04;42604,8;16155,04;1 / Fevereiro de 2024;Março de 2034;Novo contrato
+135824;Empréstimo Consignado;21/02/2024;Banco Bradesco;424;2081;Março de 2024;120;107;35,43;4251,6;1485,34;0 / Março de 2024;Abril de 2034;Renegociação
+135852;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;2151;Março de 2024;48;36;460,32;22095,36;15044,12;1 / Abril de 2024;Maio de 2028;Renegociação
+135864;Empréstimo Consignado;08/03/2024;Banco Bradesco;424;2411;Março de 2024;120;113;43,56;5227,2;1986,07;1 / Abril de 2024;Outubro de 2034;Novo contrato
+135820;Empréstimo Consignado;16/02/2024;Banco Bradesco;424;3641;Março de 2024;120;107;50,34;6040,8;2308,99;0 / Março de 2024;Abril de 2034;Novo contrato
+135855;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;3831;Março de 2024;120;108;50,72;6086,4;2309,46;1 / Abril de 2024;Maio de 2034;Novo contrato
+135862;Empréstimo Consignado;07/03/2024;Banco Bradesco;424;4881;Março de 2024;120;108;136,75;16410;5921,65;1 / Abril de 2024;Maio de 2034;Renegociação
+135863;Empréstimo Consignado;07/03/2024;Banco Bradesco;424;5041;Março de 2024;67;55;166,34;11144,78;6100,74;1 / Abril de 2024;Dezembro de 2029;Novo contrato
+135835;Empréstimo Consignado;26/02/2024;Banco Bradesco;424;6171;Março de 2024;48;35;191,93;9212,64;5490;0 / Março de 2024;Abril de 2028;Novo contrato
+135823;Empréstimo Consignado;20/02/2024;Banco Bradesco;424;6271;Março de 2024;120;107;57,74;6928,8;2655,14;0 / Março de 2024;Abril de 2034;Novo contrato
+135845;Empréstimo Consignado;05/03/2024;Banco Bradesco;424;6701;Março de 2024;120;110;1927,44;231292,8;91842,19;3 / Junho de 2024;Julho de 2034;Renegociação
+135856;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;6811;Março de 2024;120;110;1831,74;219808,8;100000;3 / Junho de 2024;Julho de 2034;Novo contrato
+135850;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;7101;Março de 2024;120;108;82,96;9955,2;3777,74;1 / Abril de 2024;Maio de 2034;Novo contrato
+135854;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;7361;Março de 2024;120;108;22,73;2727,6;1035;1 / Abril de 2024;Maio de 2034;Novo contrato
+135867;Empréstimo Consignado;11/03/2024;Banco Bradesco;424;7631;Março de 2024;24;12;301,64;7239,36;5291,2;1 / Abril de 2024;Maio de 2026;Novo contrato
+135842;Empréstimo Consignado;04/03/2024;Banco Bradesco;424;8271;Março de 2024;120;108;63,48;7617,6;2886,94;1 / Abril de 2024;Maio de 2034;Novo contrato
+135859;Empréstimo Consignado;07/03/2024;Banco Bradesco;424;9161;Março de 2024;120;108;39,28;4713,6;1789,8;1 / Abril de 2024;Maio de 2034;Novo contrato
+135849;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;11811;Março de 2024;120;108;1246,42;149570,4;67462,19;1 / Abril de 2024;Maio de 2034;Renegociação
+135844;Empréstimo Consignado;04/03/2024;Banco Bradesco;424;14853;Março de 2024;120;108;38,09;4570,8;1732,16;1 / Abril de 2024;Maio de 2034;Novo contrato
+135828;Empréstimo Consignado;23/02/2024;Banco Bradesco;424;23053;Março de 2024;120;107;25,06;3007,2;1154,34;0 / Março de 2024;Abril de 2034;Novo contrato
+135851;Empréstimo Consignado;06/03/2024;Banco Bradesco;424;222171;Março de 2024;120;108;93,83;11259,6;4272,51;1 / Abril de 2024;Maio de 2034;Novo contrato
+135892;Empréstimo Consignado;05/04/2024;Banco Bradesco;424;1541;Abril de 2024;120;109;32,97;3956,4;1450;1 / Maio de 2024;Junho de 2034;Novo contrato
+135888;Empréstimo Consignado;04/04/2024;Banco Bradesco;424;1871;Abril de 2024;120;109;40,95;4914;1800;1 / Maio de 2024;Junho de 2034;Novo contrato
+135872;Empréstimo Consignado;18/03/2024;Banco Bradesco;424;1941;Abril de 2024;120;108;532,65;63918;24748,28;0 / Abril de 2024;Maio de 2034;Renegociação
+135883;Empréstimo Consignado;25/03/2024;Banco Bradesco;424;2471;Abril de 2024;60;48;290,11;17406,6;8800,85;0 / Abril de 2024;Maio de 2029;Renegociação
+135898;Empréstimo Consignado;11/04/2024;Banco Bradesco;424;3621;Abril de 2024;120;111;450,51;54061,2;23439,75;1 / Maio de 2024;Agosto de 2034;Renegociação
+135893;Empréstimo Consignado;05/04/2024;Banco Bradesco;424;4721;Abril de 2024;120;109;677,07;81248,4;32672,41;1 / Maio de 2024;Junho de 2034;Renegociação
+135890;Empréstimo Consignado;04/04/2024;Banco Bradesco;424;4841;Abril de 2024;120;109;776,1;93132;37884,41;1 / Maio de 2024;Junho de 2034;Renegociação
+135874;Empréstimo Consignado;20/03/2024;Banco Bradesco;424;5111;Abril de 2024;120;118;31,41;3769,2;1443,05;0 / Abril de 2024;Março de 2035;Novo contrato
+135880;Empréstimo Consignado;22/03/2024;Banco Bradesco;424;5591;Abril de 2024;60;48;606,79;36407,4;21237,83;0 / Abril de 2024;Maio de 2029;Novo contrato
+135885;Empréstimo Consignado;02/04/2024;Banco Bradesco;424;5961;Abril de 2024;12;1;495,47;5945,64;5117,9;1 / Maio de 2024;Junho de 2025;Novo contrato
+135889;Empréstimo Consignado;04/04/2024;Banco Bradesco;424;6701;Abril de 2024;120;109;88,84;10660,8;3500;1 / Maio de 2024;Junho de 2034;Novo contrato
+135882;Empréstimo Consignado;25/03/2024;Banco Bradesco;424;6821;Abril de 2024;120;108;682,67;81920,4;34271,21;0 / Abril de 2024;Maio de 2034;Renegociação
+135884;Empréstimo Consignado;28/03/2024;Banco Bradesco;424;7001;Abril de 2024;120;108;1986,75;238410;116541,5;0 / Abril de 2024;Maio de 2034;Renegociação
+135886;Empréstimo Consignado;03/04/2024;Banco Bradesco;424;7561;Abril de 2024;120;109;64,88;7785,6;2850;1 / Maio de 2024;Junho de 2034;Novo contrato
+135894;Empréstimo Consignado;05/04/2024;Banco Bradesco;424;9581;Abril de 2024;120;109;50,02;6002,4;2200;1 / Maio de 2024;Junho de 2034;Novo contrato
+135896;Empréstimo Consignado;05/04/2024;Banco Bradesco;424;9621;Abril de 2024;120;109;50,02;6002,4;2200;1 / Maio de 2024;Junho de 2034;Novo contrato
+135871;Empréstimo Consignado;14/03/2024;Banco Bradesco;424;11221;Abril de 2024;120;108;353,84;42460,8;21103,71;0 / Abril de 2024;Maio de 2034;Renegociação
+135868;Empréstimo Consignado;12/03/2024;Banco Bradesco;424;194881;Abril de 2024;36;24;359,83;12953,88;9137,79;0 / Abril de 2024;Maio de 2027;Novo contrato
+135895;Empréstimo Consignado;05/04/2024;Banco Bradesco;424;195181;Abril de 2024;120;109;464,86;55783,2;19768,22;1 / Maio de 2024;Junho de 2034;Renegociação
+135877;Empréstimo Consignado;21/03/2024;Banco Bradesco;424;212101;Abril de 2024;36;24;634,48;22841,28;18493,33;0 / Abril de 2024;Maio de 2027;Renegociação
+135878;Empréstimo Consignado;21/03/2024;Banco Bradesco;424;212101;Abril de 2024;36;24;266,92;9609,12;7779,94;0 / Abril de 2024;Maio de 2027;Renegociação
+135879;Empréstimo Consignado;22/03/2024;Banco Bradesco;424;221871;Abril de 2024;120;111;1019,06;122287,2;44239,52;3 / Julho de 2024;Agosto de 2034;Novo contrato
+135917;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;1541;Maio de 2024;120;110;2449,09;293890,8;138538,88;1 / Junho de 2024;Julho de 2034;Renegociação
+135922;Empréstimo Consignado;07/05/2024;Banco Bradesco;424;2321;Maio de 2024;120;110;353,34;42400,8;14953,87;1 / Junho de 2024;Julho de 2034;Renegociação
+135915;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;2401;Maio de 2024;60;50;328,21;19692,6;11372,67;1 / Junho de 2024;Julho de 2029;Novo contrato
+135919;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;4411;Maio de 2024;120;110;489,13;58695,6;23731,31;1 / Junho de 2024;Julho de 2034;Renegociação
+135912;Empréstimo Consignado;03/05/2024;Banco Bradesco;424;5021;Maio de 2024;120;110;174,21;20905,2;7650;1 / Junho de 2024;Julho de 2034;Novo contrato
+135907;Empréstimo Consignado;26/04/2024;Banco Bradesco;424;5161;Maio de 2024;96;85;80,98;7774,08;3494,78;0 / Maio de 2024;Junho de 2032;Novo contrato
+135923;Empréstimo Consignado;07/05/2024;Banco Bradesco;424;5551;Maio de 2024;44;34;353,22;15541,68;11896,64;1 / Junho de 2024;Março de 2028;Novo contrato
+135904;Empréstimo Consignado;17/04/2024;Banco Bradesco;424;5911;Maio de 2024;120;114;1469,13;176295,6;91500,11;0 / Maio de 2024;Novembro de 2034;Novo contrato
+135914;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;6331;Maio de 2024;96;86;412,56;39605,76;19245,87;1 / Junho de 2024;Julho de 2032;Renegociação
+135899;Empréstimo Consignado;16/04/2024;Banco Bradesco;424;6841;Maio de 2024;120;109;53,05;6366;2350;0 / Maio de 2024;Junho de 2034;Novo contrato
+135918;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;7101;Maio de 2024;120;110;134,1;16092;6106,45;1 / Junho de 2024;Julho de 2034;Novo contrato
+135900;Empréstimo Consignado;16/04/2024;Banco Bradesco;424;7571;Maio de 2024;120;109;594,12;71294,4;23810,11;0 / Maio de 2024;Junho de 2034;Renegociação
+135921;Empréstimo Consignado;07/05/2024;Banco Bradesco;424;9581;Maio de 2024;120;110;588,63;70635,6;25721,64;1 / Junho de 2024;Julho de 2034;Renegociação
+135908;Empréstimo Consignado;30/04/2024;Banco Bradesco;424;9641;Maio de 2024;120;109;239,45;28734;10920,74;0 / Maio de 2024;Junho de 2034;Renegociação
+135911;Empréstimo Consignado;03/05/2024;Banco Bradesco;424;181631;Maio de 2024;120;110;823,72;98846,4;52349,13;1 / Junho de 2024;Julho de 2034;Renegociação
+135905;Empréstimo Consignado;17/04/2024;Banco Bradesco;424;194701;Maio de 2024;120;109;1127,97;135356,4;51738,96;0 / Maio de 2024;Junho de 2034;Novo contrato
+135913;Empréstimo Consignado;06/05/2024;Banco Bradesco;424;196071;Maio de 2024;96;86;72,87;6995,52;3000;1 / Junho de 2024;Julho de 2032;Novo contrato
+135961;Empréstimo Consignado;03/06/2024;Banco Bradesco;424;2001;Junho de 2024;120;111;193,08;23169,6;8151,91;1 / Julho de 2024;Agosto de 2034;Renegociação
+135960;Empréstimo Consignado;03/06/2024;Banco Bradesco;424;2001;Junho de 2024;120;111;329,46;39535,2;15445,26;1 / Julho de 2024;Agosto de 2034;Renegociação
+135927;Empréstimo Consignado;13/05/2024;Banco Bradesco;424;2601;Junho de 2024;120;110;997,22;119666,4;43887,35;0 / Junho de 2024;Julho de 2034;Renegociação
+135954;Empréstimo Consignado;27/05/2024;Banco Bradesco;424;3231;Junho de 2024;72;62;537,88;38727,36;20675,81;0 / Junho de 2024;Julho de 2030;Novo contrato
+135968;Empréstimo Consignado;06/06/2024;Banco Bradesco;424;3631;Junho de 2024;120;113;799,95;95994;37715,52;3 / Setembro de 2024;Outubro de 2034;Renegociação
+135970;Empréstimo Consignado;06/06/2024;Banco Bradesco;424;3641;Junho de 2024;120;111;45,44;5452,8;2069,96;1 / Julho de 2024;Agosto de 2034;Novo contrato
+135940;Empréstimo Consignado;16/05/2024;Banco Bradesco;424;4981;Junho de 2024;36;26;89,07;3206,52;2064,36;0 / Junho de 2024;Julho de 2027;Novo contrato
+135969;Empréstimo Consignado;06/06/2024;Banco Bradesco;424;5001;Junho de 2024;120;111;293,06;35167,2;12466,21;1 / Julho de 2024;Agosto de 2034;Renegociação
+135959;Empréstimo Consignado;03/06/2024;Banco Bradesco;424;5561;Junho de 2024;70;62;2238,46;156692,2;77637,52;2 / Agosto de 2024;Julho de 2030;Renegociação
+135964;Empréstimo Consignado;05/06/2024;Banco Bradesco;424;5841;Junho de 2024;120;114;2143,09;257170,8;100250,44;4 / Outubro de 2024;Novembro de 2034;Renegociação
+135928;Empréstimo Consignado;13/05/2024;Banco Bradesco;424;6291;Junho de 2024;48;38;185,37;8897,76;5681,76;0 / Junho de 2024;Julho de 2028;Novo contrato
+135965;Empréstimo Consignado;05/06/2024;Banco Bradesco;424;6511;Junho de 2024;120;111;1079,88;129585,6;49162,46;1 / Julho de 2024;Agosto de 2034;Novo contrato
+135933;Empréstimo Consignado;15/05/2024;Banco Bradesco;424;6651;Junho de 2024;120;110;1013,21;121585,2;47824,3;0 / Junho de 2024;Julho de 2034;Renegociação
+135966;Empréstimo Consignado;06/06/2024;Banco Bradesco;424;6701;Junho de 2024;120;111;140,86;16903,2;6416,88;1 / Julho de 2024;Agosto de 2034;Novo contrato
+135978;Empréstimo Consignado;11/06/2024;Banco Bradesco;424;7021;Junho de 2024;120;111;1896,99;227638,8;78745,36;1 / Julho de 2024;Agosto de 2034;Renegociação
+135946;Empréstimo Consignado;23/05/2024;Banco Bradesco;424;7431;Junho de 2024;120;112;253,32;30398,4;12671,48;0 / Junho de 2024;Setembro de 2034;Renegociação
+135947;Empréstimo Consignado;23/05/2024;Banco Bradesco;424;7431;Junho de 2024;120;112;416,06;49927,2;20091,02;0 / Junho de 2024;Setembro de 2034;Renegociação
+135974;Empréstimo Consignado;07/06/2024;Banco Bradesco;424;8871;Junho de 2024;120;111;268,13;32175,6;11352,15;1 / Julho de 2024;Agosto de 2034;Renegociação
+135973;Empréstimo Consignado;07/06/2024;Banco Bradesco;424;8921;Junho de 2024;120;111;19,3;2316;879,72;1 / Julho de 2024;Agosto de 2034;Novo contrato
+135971;Empréstimo Consignado;06/06/2024;Banco Bradesco;424;9641;Junho de 2024;80;71;104,1;8328;4137,84;1 / Julho de 2024;Abril de 2031;Novo contrato
+135976;Empréstimo Consignado;11/06/2024;Banco Bradesco;424;23053;Junho de 2024;120;111;453,53;54423,6;23078,75;1 / Julho de 2024;Agosto de 2034;Renegociação
+135975;Empréstimo Consignado;07/06/2024;Banco Bradesco;424;181201;Junho de 2024;120;111;785,15;94218;39534,58;1 / Julho de 2024;Agosto de 2034;Renegociação
+135932;Empréstimo Consignado;14/05/2024;Banco Bradesco;424;181711;Junho de 2024;120;117;41,83;5019,6;1914,46;0 / Junho de 2024;Fevereiro de 2035;Novo contrato
+135943;Empréstimo Consignado;20/05/2024;Banco Bradesco;424;194881;Junho de 2024;36;26;355,08;12782,88;8256,2;0 / Junho de 2024;Julho de 2027;Novo contrato
+135955;Empréstimo Consignado;27/05/2024;Banco Bradesco;424;205751;Junho de 2024;60;50;1150;69000;37255,23;0 / Junho de 2024;Julho de 2029;Novo contrato
+135962;Empréstimo Consignado;03/06/2024;Banco Bradesco;424;214071;Junho de 2024;120;111;91,06;10927,2;4140,14;1 / Julho de 2024;Agosto de 2034;Novo contrato
+135944;Empréstimo Consignado;21/05/2024;Banco Bradesco;424;222171;Junho de 2024;120;110;51,77;6212,4;2379,83;0 / Junho de 2024;Julho de 2034;Novo contrato
+135931;Empréstimo Consignado;14/05/2024;Banco Bradesco;424;222411;Junho de 2024;120;110;177,49;21298,8;8123,52;0 / Junho de 2024;Julho de 2034;Novo contrato
+135934;Empréstimo Consignado;15/05/2024;Banco Bradesco;424;223731;Junho de 2024;24;14;355,27;8526,48;6691,24;0 / Junho de 2024;Julho de 2026;Novo contrato
+135958;Empréstimo Consignado;29/05/2024;Banco Bradesco;424;224891;Junho de 2024;120;110;123,14;14776,8;5690,01;0 / Junho de 2024;Julho de 2034;Novo contrato
+135997;Empréstimo Consignado;02/07/2024;Banco Bradesco;424;2211;Julho de 2024;120;112;574,3;68916;28103,76;1 / Agosto de 2024;Setembro de 2034;Renegociação
+136000;Empréstimo Consignado;04/07/2024;Banco Bradesco;424;2501;Julho de 2024;36;28;453,98;16343,28;11354,95;1 / Agosto de 2024;Setembro de 2027;Novo contrato
+135987;Empréstimo Consignado;20/06/2024;Banco Bradesco;424;4831;Julho de 2024;120;111;147,6;17712;6622,45;0 / Julho de 2024;Agosto de 2034;Novo contrato
+136010;Empréstimo Consignado;11/07/2024;Banco Bradesco;424;6421;Julho de 2024;20;12;242,13;4842,6;3871,19;1 / Agosto de 2024;Maio de 2026;Renegociação
+136002;Empréstimo Consignado;04/07/2024;Banco Bradesco;424;7041;Julho de 2024;120;112;144,48;17337,6;6417,34;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+136007;Empréstimo Consignado;09/07/2024;Banco Bradesco;424;7441;Julho de 2024;120;112;132,38;15885,6;5899,28;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+135990;Empréstimo Consignado;26/06/2024;Banco Bradesco;424;7661;Julho de 2024;120;111;1493,22;179186,4;68743,09;0 / Julho de 2024;Agosto de 2034;Renegociação
+136006;Empréstimo Consignado;08/07/2024;Banco Bradesco;424;7921;Julho de 2024;120;112;287,03;34443,6;12782;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+135996;Empréstimo Consignado;02/07/2024;Banco Bradesco;424;8271;Julho de 2024;120;112;355,2;42624;16935,01;1 / Agosto de 2024;Setembro de 2034;Renegociação
+136008;Empréstimo Consignado;09/07/2024;Banco Bradesco;424;8531;Julho de 2024;120;112;243,87;29264,4;10867,09;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+136004;Empréstimo Consignado;08/07/2024;Banco Bradesco;424;8871;Julho de 2024;120;112;1462,16;175459,2;70872,8;1 / Agosto de 2024;Setembro de 2034;Renegociação
+136005;Empréstimo Consignado;08/07/2024;Banco Bradesco;424;8871;Julho de 2024;120;112;732,09;87850,8;36772,23;1 / Agosto de 2024;Setembro de 2034;Renegociação
+136009;Empréstimo Consignado;11/07/2024;Banco Bradesco;424;9621;Julho de 2024;120;112;533,69;64042,8;29974,74;1 / Agosto de 2024;Setembro de 2034;Renegociação
+135986;Empréstimo Consignado;20/06/2024;Banco Bradesco;424;11413;Julho de 2024;72;63;1000,8;72057,6;35713,75;0 / Julho de 2024;Agosto de 2030;Renegociação
+135995;Empréstimo Consignado;01/07/2024;Banco Bradesco;424;14853;Julho de 2024;120;112;51,37;6164,4;2277,24;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+135998;Empréstimo Consignado;03/07/2024;Banco Bradesco;424;181391;Julho de 2024;118;109;502,64;59311,52;22260,89;0 / Julho de 2024;Junho de 2034;Renegociação
+136001;Empréstimo Consignado;04/07/2024;Banco Bradesco;424;181391;Julho de 2024;120;112;130,5;15660;5796,31;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+135999;Empréstimo Consignado;03/07/2024;Banco Bradesco;424;181631;Julho de 2024;120;112;69,96;8395,2;3105,22;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+136003;Empréstimo Consignado;08/07/2024;Banco Bradesco;424;194611;Julho de 2024;120;112;198,21;23785,2;8798,12;1 / Agosto de 2024;Setembro de 2034;Novo contrato
+135993;Empréstimo Consignado;27/06/2024;Banco Bradesco;424;196071;Julho de 2024;96;87;324,53;31154,88;18299,21;0 / Julho de 2024;Agosto de 2032;Renegociação
+135982;Empréstimo Consignado;13/06/2024;Banco Bradesco;424;200281;Julho de 2024;120;111;1001,83;120219,6;41645,89;0 / Julho de 2024;Agosto de 2034;Renegociação
+135989;Empréstimo Consignado;24/06/2024;Banco Bradesco;424;203971;Julho de 2024;72;63;494,88;35631,36;17710,63;0 / Julho de 2024;Agosto de 2030;Renegociação
+135994;Empréstimo Consignado;28/06/2024;Banco Bradesco;424;223651;Julho de 2024;56;47;1260;70560;43936,93;0 / Julho de 2024;Abril de 2029;Novo contrato
+136026;Empréstimo Consignado;25/07/2024;Banco Bradesco;424;3231;Agosto de 2024;70;62;124,84;8738,8;4652,11;0 / Agosto de 2024;Julho de 2030;Novo contrato
+136035;Empréstimo Consignado;05/08/2024;Banco Bradesco;424;4831;Agosto de 2024;120;113;1723,62;206834,4;80274,55;1 / Setembro de 2024;Outubro de 2034;Renegociação
+136033;Empréstimo Consignado;02/08/2024;Banco Bradesco;424;5081;Agosto de 2024;120;113;100,3;12036;4450,84;1 / Setembro de 2024;Outubro de 2034;Novo contrato
+136016;Empréstimo Consignado;19/07/2024;Banco Bradesco;424;5091;Agosto de 2024;120;112;2114,39;253726,8;103421,62;0 / Agosto de 2024;Setembro de 2034;Renegociação
+136021;Empréstimo Consignado;24/07/2024;Banco Bradesco;424;5161;Agosto de 2024;120;112;1086,31;130357,2;52334,03;0 / Agosto de 2024;Setembro de 2034;Renegociação
+136034;Empréstimo Consignado;02/08/2024;Banco Bradesco;424;6161;Agosto de 2024;120;113;494,12;59294,4;23530,94;1 / Setembro de 2024;Outubro de 2034;Renegociação
+136023;Empréstimo Consignado;24/07/2024;Banco Bradesco;424;6531;Agosto de 2024;120;112;337,04;40444,8;14872,06;0 / Agosto de 2024;Setembro de 2034;Renegociação
+136024;Empréstimo Consignado;24/07/2024;Banco Bradesco;424;6531;Agosto de 2024;120;112;733,32;87998,4;31671,36;0 / Agosto de 2024;Setembro de 2034;Renegociação
+136015;Empréstimo Consignado;18/07/2024;Banco Bradesco;424;6601;Agosto de 2024;36;28;440,96;15874,56;10785,37;0 / Agosto de 2024;Setembro de 2027;Renegociação
+136037;Empréstimo Consignado;08/08/2024;Banco Bradesco;424;194881;Agosto de 2024;36;29;226,3;8146,8;5162,47;1 / Setembro de 2024;Outubro de 2027;Novo contrato
+136018;Empréstimo Consignado;22/07/2024;Banco Bradesco;424;196071;Agosto de 2024;72;64;23,61;1699,92;889,5;0 / Agosto de 2024;Setembro de 2030;Novo contrato
+136013;Empréstimo Consignado;17/07/2024;Banco Bradesco;424;196071;Agosto de 2024;95;87;177,71;16882,45;10091,07;0 / Agosto de 2024;Agosto de 2032;Renegociação
+136022;Empréstimo Consignado;24/07/2024;Banco Bradesco;424;198951;Agosto de 2024;120;112;344,88;41385,6;15519,97;0 / Agosto de 2024;Setembro de 2034;Novo contrato
+136012;Empréstimo Consignado;17/07/2024;Banco Bradesco;424;200601;Agosto de 2024;72;64;1197,72;86235,84;57659,57;0 / Agosto de 2024;Setembro de 2030;Renegociação
+136028;Empréstimo Consignado;29/07/2024;Banco Bradesco;424;202491;Agosto de 2024;120;112;224,28;26913,6;9407,5;0 / Agosto de 2024;Setembro de 2034;Renegociação
+136027;Empréstimo Consignado;26/07/2024;Banco Bradesco;424;202571;Agosto de 2024;70;62;532,48;37273,6;24235,44;0 / Agosto de 2024;Julho de 2030;Novo contrato
+136032;Empréstimo Consignado;31/07/2024;Banco Bradesco;424;203541;Agosto de 2024;48;40;371,23;17819,04;11368,2;0 / Agosto de 2024;Setembro de 2028;Novo contrato
+136064;Empréstimo Consignado;06/09/2024;Banco Bradesco;424;1871;Setembro de 2024;120;114;34,88;4185,6;1552,49;1 / Outubro de 2024;Novembro de 2034;Novo contrato
+136068;Empréstimo Consignado;11/09/2024;Banco Bradesco;424;2341;Setembro de 2024;120;114;525,93;63111,6;26369,65;1 / Outubro de 2024;Novembro de 2034;Renegociação
+136066;Empréstimo Consignado;09/09/2024;Banco Bradesco;424;2461;Setembro de 2024;120;114;454,81;54577,2;22065,55;1 / Outubro de 2024;Novembro de 2034;Renegociação
+136062;Empréstimo Consignado;04/09/2024;Banco Bradesco;424;4251;Setembro de 2024;119;112;64,9;7723,1;2960,03;0 / Setembro de 2024;Setembro de 2034;Novo contrato
+136042;Empréstimo Consignado;12/08/2024;Banco Bradesco;424;4851;Setembro de 2024;48;41;546,32;26223,36;16529,45;0 / Setembro de 2024;Outubro de 2028;Novo contrato
+136059;Empréstimo Consignado;02/09/2024;Banco Bradesco;424;5021;Setembro de 2024;120;114;2184,3;262116;113536,67;1 / Outubro de 2024;Novembro de 2034;Renegociação
+136063;Empréstimo Consignado;05/09/2024;Banco Bradesco;424;5061;Setembro de 2024;36;30;568,14;20453,04;13778,98;1 / Outubro de 2024;Novembro de 2027;Renegociação
+136058;Empréstimo Consignado;29/08/2024;Banco Bradesco;424;6041;Setembro de 2024;120;113;444,85;53382;25403,42;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136045;Empréstimo Consignado;15/08/2024;Banco Bradesco;424;6071;Setembro de 2024;60;53;601,99;36119,4;20673,33;0 / Setembro de 2024;Outubro de 2029;Novo contrato
+136053;Empréstimo Consignado;22/08/2024;Banco Bradesco;424;6491;Setembro de 2024;120;113;79,47;9536,4;5078,2;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136052;Empréstimo Consignado;22/08/2024;Banco Bradesco;424;6491;Setembro de 2024;120;113;388,09;46570,8;24798,08;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136049;Empréstimo Consignado;20/08/2024;Banco Bradesco;424;6791;Setembro de 2024;25;18;107,33;2683,25;2060,41;0 / Setembro de 2024;Novembro de 2026;Novo contrato
+136054;Empréstimo Consignado;23/08/2024;Banco Bradesco;424;6921;Setembro de 2024;120;113;2087,9;250548;86464,98;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136067;Empréstimo Consignado;10/09/2024;Banco Bradesco;424;7201;Setembro de 2024;120;114;455,73;54687,6;20336,14;1 / Outubro de 2024;Novembro de 2034;Novo contrato
+136065;Empréstimo Consignado;06/09/2024;Banco Bradesco;424;7801;Setembro de 2024;120;114;476,52;57182,4;24595,98;1 / Outubro de 2024;Novembro de 2034;Renegociação
+136047;Empréstimo Consignado;15/08/2024;Banco Bradesco;424;8061;Setembro de 2024;120;113;538,06;64567,2;25323,89;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136055;Empréstimo Consignado;26/08/2024;Banco Bradesco;424;9011;Setembro de 2024;12;5;401,92;4823,04;4086,37;0 / Setembro de 2024;Outubro de 2025;Novo contrato
+136046;Empréstimo Consignado;15/08/2024;Banco Bradesco;424;9151;Setembro de 2024;120;113;37,02;4442,4;1655,76;0 / Setembro de 2024;Outubro de 2034;Novo contrato
+136061;Empréstimo Consignado;03/09/2024;Banco Bradesco;424;9391;Setembro de 2024;120;116;1265,61;151873,2;53946,61;3 / Dezembro de 2024;Janeiro de 2035;Renegociação
+136041;Empréstimo Consignado;12/08/2024;Banco Bradesco;424;74391;Setembro de 2024;120;113;32,44;3892,8;1448,85;0 / Setembro de 2024;Outubro de 2034;Novo contrato
+136040;Empréstimo Consignado;12/08/2024;Banco Bradesco;424;74391;Setembro de 2024;120;113;328,07;39368,4;15557,19;0 / Setembro de 2024;Outubro de 2034;Renegociação
+136048;Empréstimo Consignado;19/08/2024;Banco Bradesco;424;195181;Setembro de 2024;120;113;197,17;23660,4;8847,14;0 / Setembro de 2024;Outubro de 2034;Novo contrato
+136051;Empréstimo Consignado;21/08/2024;Banco Bradesco;424;203971;Setembro de 2024;12;5;78,43;941,16;817,51;0 / Setembro de 2024;Outubro de 2025;Novo contrato
+136079;Empréstimo Consignado;02/10/2024;Banco Bradesco;424;2141;Outubro de 2024;115;109;33,86;3893,9;1552,2;0 / Outubro de 2024;Junho de 2034;Novo contrato
+136082;Empréstimo Consignado;07/10/2024;Banco Bradesco;424;3841;Outubro de 2024;120;115;452,66;54319,2;21987,64;1 / Novembro de 2024;Dezembro de 2034;Renegociação
+136084;Empréstimo Consignado;08/10/2024;Banco Bradesco;424;5181;Outubro de 2024;60;55;611,99;36719,4;22601,13;1 / Novembro de 2024;Dezembro de 2029;Renegociação
+136083;Empréstimo Consignado;08/10/2024;Banco Bradesco;424;5401;Outubro de 2024;72;67;1396,14;100522,08;58875,69;1 / Novembro de 2024;Dezembro de 2030;Renegociação
+136085;Empréstimo Consignado;10/10/2024;Banco Bradesco;424;5601;Outubro de 2024;120;115;330,41;39649,2;16646,83;1 / Novembro de 2024;Dezembro de 2034;Renegociação
+136071;Empréstimo Consignado;16/09/2024;Banco Bradesco;424;6441;Outubro de 2024;120;114;568,4;68208;28924,18;0 / Outubro de 2024;Novembro de 2034;Renegociação
+136072;Empréstimo Consignado;17/09/2024;Banco Bradesco;424;9341;Outubro de 2024;8;2;100,7;805,6;711,75;0 / Outubro de 2024;Julho de 2025;Novo contrato
+136074;Empréstimo Consignado;24/09/2024;Banco Bradesco;424;195181;Outubro de 2024;24;18;116,77;2802,48;2058,72;0 / Outubro de 2024;Novembro de 2026;Novo contrato
+136081;Empréstimo Consignado;04/10/2024;Banco Bradesco;424;197551;Outubro de 2024;12;7;595,98;7151,76;6140,27;1 / Novembro de 2024;Dezembro de 2025;Novo contrato
+136073;Empréstimo Consignado;23/09/2024;Banco Bradesco;424;200281;Outubro de 2024;120;114;198,22;23786,4;8303,19;0 / Outubro de 2024;Novembro de 2034;Renegociação
+136076;Empréstimo Consignado;26/09/2024;Banco Bradesco;424;200521;Outubro de 2024;120;114;1250;150000;52473,5;0 / Outubro de 2024;Novembro de 2034;Renegociação
+136088;Empréstimo Consignado;11/10/2024;Banco Bradesco;424;213001;Outubro de 2024;120;115;812,34;97480,8;43107,06;1 / Novembro de 2024;Dezembro de 2034;Renegociação
+136091;Empréstimo Consignado;22/10/2024;Banco Bradesco;424;5871;Novembro de 2024;120;115;179,59;21550,8;7515,14;0 / Novembro de 2024;Dezembro de 2034;Renegociação
+136093;Empréstimo Consignado;23/10/2024;Banco Bradesco;424;23053;Novembro de 2024;120;115;27,6;3312;1241,61;0 / Novembro de 2024;Dezembro de 2034;Novo contrato
+136090;Empréstimo Consignado;16/10/2024;Banco Bradesco;424;177441;Novembro de 2024;120;115;998,65;119838;46894,7;0 / Novembro de 2024;Dezembro de 2034;Renegociação
+136089;Empréstimo Consignado;14/10/2024;Banco Bradesco;424;182101;Novembro de 2024;120;115;180,47;21656,4;8071,82;0 / Novembro de 2024;Dezembro de 2034;Novo contrato
+136104;Empréstimo Consignado;19/11/2024;Banco Bradesco;424;3781;Dezembro de 2024;120;116;515,94;61912,8;23180,71;0 / Dezembro de 2024;Janeiro de 2035;Renegociação
+136125;Empréstimo Consignado;11/12/2024;Banco Bradesco;424;5091;Dezembro de 2024;120;118;116,91;14029,2;4854,41;1 / Janeiro de 2025;Março de 2035;Renegociação
+136120;Empréstimo Consignado;04/12/2024;Banco Bradesco;424;6071;Dezembro de 2024;120;118;245,71;29485,2;10919,59;1 / Janeiro de 2025;Março de 2035;Novo contrato
+136124;Empréstimo Consignado;11/12/2024;Banco Bradesco;424;7061;Dezembro de 2024;120;118;2120,9;254508;117348,87;1 / Janeiro de 2025;Março de 2035;Novo contrato
+136119;Empréstimo Consignado;04/12/2024;Banco Bradesco;424;8031;Dezembro de 2024;24;22;221,76;5322,24;4120,06;1 / Janeiro de 2025;Março de 2027;Novo contrato
+136123;Empréstimo Consignado;06/12/2024;Banco Bradesco;424;8794;Dezembro de 2024;100;98;899,93;89993;44309;1 / Janeiro de 2025;Julho de 2033;Renegociação
+136118;Empréstimo Consignado;27/11/2024;Banco Bradesco;424;9541;Dezembro de 2024;6;2;184,38;1106,28;1014,57;0 / Dezembro de 2024;Julho de 2025;Novo contrato
+136102;Empréstimo Consignado;18/11/2024;Banco Bradesco;424;9621;Dezembro de 2024;120;116;99,19;11902,8;4140,85;0 / Dezembro de 2024;Janeiro de 2035;Renegociação
+136116;Empréstimo Consignado;27/11/2024;Banco Bradesco;424;180741;Dezembro de 2024;12;8;636,3;7635,6;6641,19;0 / Dezembro de 2024;Janeiro de 2026;Novo contrato
+136144;Empréstimo Consignado;06/01/2025;Banco Bradesco;424;3012;Janeiro de 2025;60;58;608,15;36489;19048,76;1 / Fevereiro de 2025;Março de 2030;Renegociação
+136137;Empréstimo Consignado;26/12/2024;Banco Bradesco;424;7671;Janeiro de 2025;66;63;1380,8;91132,8;59016,99;0 / Janeiro de 2025;Agosto de 2030;Renegociação
+136143;Empréstimo Consignado;03/01/2025;Banco Bradesco;424;8521;Janeiro de 2025;120;118;73,1;8772;3053,6;1 / Fevereiro de 2025;Março de 2035;Novo contrato
+136147;Empréstimo Consignado;09/01/2025;Banco Bradesco;424;9341;Janeiro de 2025;4;2;278,09;1112,36;1026,03;1 / Fevereiro de 2025;Julho de 2025;Novo contrato
+136136;Empréstimo Consignado;26/12/2024;Banco Bradesco;424;11811;Janeiro de 2025;120;117;668,26;80191,2;38702,34;0 / Janeiro de 2025;Fevereiro de 2035;Renegociação
+136149;Empréstimo Consignado;10/01/2025;Banco Bradesco;424;11851;Janeiro de 2025;60;58;476,01;28560,6;14782,85;1 / Fevereiro de 2025;Março de 2030;Renegociação
+136145;Empréstimo Consignado;07/01/2025;Banco Bradesco;424;203111;Janeiro de 2025;120;118;21,58;2589,6;828,11;1 / Fevereiro de 2025;Março de 2035;Novo contrato
+136135;Empréstimo Consignado;24/12/2024;Banco Bradesco;424;203111;Janeiro de 2025;120;117;552,79;66334,8;23168,27;0 / Janeiro de 2025;Fevereiro de 2035;Renegociação
+136140;Empréstimo Consignado;02/01/2025;Banco Bradesco;424;222331;Janeiro de 2025;10;8;121,55;1215,5;1035,11;1 / Fevereiro de 2025;Janeiro de 2026;Novo contrato
+136150;Empréstimo Consignado;10/01/2025;Banco Bradesco;424;223221;Janeiro de 2025;54;52;1218,47;65797,38;50547,83;0 / Janeiro de 2025;Setembro de 2029;Novo contrato
+136146;Empréstimo Consignado;08/01/2025;Banco Bradesco;424;223901;Janeiro de 2025;120;118;110,19;13222,8;4619,03;1 / Fevereiro de 2025;Março de 2035;Novo contrato
+136129;Empréstimo Consignado;18/12/2024;Banco Bradesco;424;232991;Janeiro de 2025;120;118;22,73;2727,6;1019,24;0 / Janeiro de 2025;Março de 2035;Novo contrato
+136160;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;1871;Fevereiro de 2025;120;119;39,43;4731,6;1655,95;1 / Março de 2025;Abril de 2035;Novo contrato
+136180;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;2081;Fevereiro de 2025;120;119;40,02;4802,4;1681,79;1 / Março de 2025;Abril de 2035;Novo contrato
+136179;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;2211;Fevereiro de 2025;120;119;87,52;10502,4;3397,53;1 / Março de 2025;Abril de 2035;Renegociação
+136170;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;2341;Fevereiro de 2025;120;119;135,35;16242;5602,91;1 / Março de 2025;Abril de 2035;Renegociação
+136164;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;2461;Fevereiro de 2025;120;119;38,2;4584;1604,2;1 / Março de 2025;Abril de 2035;Novo contrato
+136167;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;3631;Fevereiro de 2025;120;119;120,35;14442;4988,84;1 / Março de 2025;Abril de 2035;Renegociação
+136152;Empréstimo Consignado;30/01/2025;Banco Bradesco;424;3641;Fevereiro de 2025;120;119;30,49;3658,8;1270,43;1 / Março de 2025;Abril de 2035;Novo contrato
+136163;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;3911;Fevereiro de 2025;120;119;554,14;66496,8;27361,6;1 / Março de 2025;Abril de 2035;Renegociação
+136173;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;4251;Fevereiro de 2025;120;119;38,2;4584;1604,2;1 / Março de 2025;Abril de 2035;Novo contrato
+136177;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;5021;Fevereiro de 2025;120;119;86,26;10351,2;3622,39;1 / Março de 2025;Abril de 2035;Novo contrato
+136168;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;6161;Fevereiro de 2025;120;119;129,47;15536,4;5028,88;1 / Março de 2025;Abril de 2035;Renegociação
+136181;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;6201;Fevereiro de 2025;120;119;1157,3;138876;53483,68;1 / Março de 2025;Abril de 2035;Renegociação
+136174;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;6251;Fevereiro de 2025;120;119;1149,97;137996,4;66784,79;1 / Março de 2025;Abril de 2035;Renegociação
+136182;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;6351;Fevereiro de 2025;96;95;635,03;60962,88;24543,94;1 / Março de 2025;Abril de 2033;Renegociação
+136183;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;6441;Fevereiro de 2025;120;119;572,02;68642,4;26871,37;1 / Março de 2025;Abril de 2035;Renegociação
+136165;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;6461;Fevereiro de 2025;120;119;1095,42;131450,4;57561,17;1 / Março de 2025;Abril de 2035;Renegociação
+136162;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;6491;Fevereiro de 2025;120;119;69;8280;2897,91;1 / Março de 2025;Abril de 2035;Novo contrato
+136175;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;7361;Fevereiro de 2025;120;119;602,07;72248,4;29207,46;1 / Março de 2025;Abril de 2035;Renegociação
+136154;Empréstimo Consignado;04/02/2025;Banco Bradesco;424;7581;Fevereiro de 2025;60;59;2219,33;133159,8;80588,95;1 / Março de 2025;Abril de 2030;Novo contrato
+136176;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;7882;Fevereiro de 2025;120;119;456,89;54826,8;23600,24;1 / Março de 2025;Abril de 2035;Renegociação
+136169;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;8061;Fevereiro de 2025;120;119;163,35;19602;6536,84;1 / Março de 2025;Abril de 2035;Renegociação
+136161;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;74391;Fevereiro de 2025;120;119;96,19;11542,8;4064,57;1 / Março de 2025;Abril de 2035;Renegociação
+136155;Empréstimo Consignado;04/02/2025;Banco Bradesco;424;178411;Fevereiro de 2025;60;59;568,06;34083,6;20674,8;1 / Março de 2025;Abril de 2030;Novo contrato
+136171;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;181631;Fevereiro de 2025;120;119;33,27;3992,4;1397,21;1 / Março de 2025;Abril de 2035;Novo contrato
+136185;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;196901;Fevereiro de 2025;120;119;1279,98;153597,6;70215,81;1 / Março de 2025;Abril de 2035;Renegociação
+136184;Empréstimo Consignado;11/02/2025;Banco Bradesco;424;213001;Fevereiro de 2025;120;119;45,56;5467,2;1914,66;1 / Março de 2025;Abril de 2035;Novo contrato
+136178;Empréstimo Consignado;10/02/2025;Banco Bradesco;424;224891;Fevereiro de 2025;120;119;1163,92;139670,4;52136,47;1 / Março de 2025;Abril de 2035;Renegociação
+136213;Empréstimo Consignado;26/02/2025;Banco Bradesco;424;2111;Março de 2025;120;119;87,7;10524;3724,66;0 / Março de 2025;Abril de 2035;Novo contrato
+136206;Empréstimo Consignado;21/02/2025;Banco Bradesco;424;3531;Março de 2025;120;119;570,08;68409,6;27878,19;0 / Março de 2025;Abril de 2035;Renegociação
+136199;Empréstimo Consignado;17/02/2025;Banco Bradesco;424;3761;Março de 2025;36;35;230,71;8305,56;5675,08;0 / Março de 2025;Abril de 2028;Novo contrato
+136217;Empréstimo Consignado;06/03/2025;Banco Bradesco;424;3831;Março de 2025;120;120;504,16;60499,2;20799,55;1 / Abril de 2025;Maio de 2035;Renegociação
+136196;Empréstimo Consignado;14/02/2025;Banco Bradesco;424;4511;Março de 2025;120;119;30,47;3656,4;1283,26;0 / Março de 2025;Abril de 2035;Novo contrato
+136187;Empréstimo Consignado;12/02/2025;Banco Bradesco;424;4841;Março de 2025;120;119;74,57;8948,4;2904,37;0 / Março de 2025;Abril de 2035;Renegociação
+136195;Empréstimo Consignado;13/02/2025;Banco Bradesco;424;5001;Março de 2025;120;119;176,87;21224,4;7591,34;0 / Março de 2025;Abril de 2035;Renegociação
+136216;Empréstimo Consignado;06/03/2025;Banco Bradesco;424;5021;Março de 2025;120;120;116,37;13964,4;4864,97;1 / Abril de 2025;Maio de 2035;Novo contrato
+136220;Empréstimo Consignado;06/03/2025;Banco Bradesco;424;5061;Março de 2025;48;48;491,48;23591,04;13691,08;1 / Abril de 2025;Maio de 2029;Renegociação
+136194;Empréstimo Consignado;13/02/2025;Banco Bradesco;424;5081;Março de 2025;120;119;1517,67;182120,4;78372,04;0 / Março de 2025;Abril de 2035;Renegociação
+136193;Empréstimo Consignado;13/02/2025;Banco Bradesco;424;5901;Março de 2025;120;119;99,65;11958;4193,8;0 / Março de 2025;Abril de 2035;Novo contrato
+136197;Empréstimo Consignado;14/02/2025;Banco Bradesco;424;6231;Março de 2025;120;119;649,09;77890,8;32292,15;0 / Março de 2025;Abril de 2035;Renegociação
+136230;Empréstimo Consignado;11/03/2025;Banco Bradesco;424;6271;Março de 2025;120;120;447,7;53724;19368,43;1 / Abril de 2025;Maio de 2035;Renegociação
+136212;Empréstimo Consignado;26/02/2025;Banco Bradesco;424;6531;Março de 2025;120;119;46,28;5553,6;1965,8;0 / Março de 2025;Abril de 2035;Novo contrato
+136207;Empréstimo Consignado;24/02/2025;Banco Bradesco;424;7051;Março de 2025;72;71;505,96;36429,12;17674,98;0 / Março de 2025;Abril de 2031;Renegociação
+136215;Empréstimo Consignado;05/03/2025;Banco Bradesco;424;7141;Março de 2025;120;119;622,11;74653,2;34946,71;0 / Março de 2025;Abril de 2035;Renegociação
+136214;Empréstimo Consignado;05/03/2025;Banco Bradesco;424;7141;Março de 2025;120;119;127,23;15267,6;7407,3;0 / Março de 2025;Abril de 2035;Renegociação
+136188;Empréstimo Consignado;12/02/2025;Banco Bradesco;424;7541;Março de 2025;120;120;298,49;35818,8;13113,87;0 / Março de 2025;Maio de 2035;Renegociação
+136227;Empréstimo Consignado;10/03/2025;Banco Bradesco;424;7561;Março de 2025;120;120;243,06;29167,2;9948,5;1 / Abril de 2025;Maio de 2035;Novo contrato
+136226;Empréstimo Consignado;10/03/2025;Banco Bradesco;424;7561;Março de 2025;120;120;297,46;35695,2;13689,39;1 / Abril de 2025;Maio de 2035;Renegociação
+136218;Empréstimo Consignado;06/03/2025;Banco Bradesco;424;7801;Março de 2025;120;120;38,38;4605,6;1604,41;1 / Abril de 2025;Maio de 2035;Novo contrato
+136191;Empréstimo Consignado;13/02/2025;Banco Bradesco;424;8271;Março de 2025;120;119;722,03;86643,6;32928,07;0 / Março de 2025;Abril de 2035;Renegociação
+136202;Empréstimo Consignado;18/02/2025;Banco Bradesco;424;8521;Março de 2025;96;95;873,67;83872,32;44520,3;0 / Março de 2025;Abril de 2033;Renegociação
+136205;Empréstimo Consignado;20/02/2025;Banco Bradesco;424;8911;Março de 2025;120;119;559,32;67118,4;26798,77;0 / Março de 2025;Abril de 2035;Renegociação
+136229;Empréstimo Consignado;10/03/2025;Banco Bradesco;424;9151;Março de 2025;120;120;556,59;66790,8;27722,46;1 / Abril de 2025;Maio de 2035;Renegociação
+136228;Empréstimo Consignado;10/03/2025;Banco Bradesco;424;9151;Março de 2025;120;120;1178,45;141414;61458,87;1 / Abril de 2025;Maio de 2035;Renegociação
+136189;Empréstimo Consignado;12/02/2025;Banco Bradesco;424;11801;Março de 2025;120;119;1759,22;211106,4;111260,34;0 / Março de 2025;Abril de 2035;Renegociação
+136208;Empréstimo Consignado;24/02/2025;Banco Bradesco;424;195181;Março de 2025;12;11;71,31;855,72;715,2;0 / Março de 2025;Abril de 2026;Novo contrato
+136209;Empréstimo Consignado;25/02/2025;Banco Bradesco;424;196071;Março de 2025;96;95;49,8;4780,8;1996,51;0 / Março de 2025;Abril de 2033;Novo contrato
+136225;Empréstimo Consignado;10/03/2025;Banco Bradesco;424;212021;Março de 2025;80;80;691,97;55357,6;24134,59;1 / Abril de 2025;Janeiro de 2032;Renegociação
+136198;Empréstimo Consignado;17/02/2025;Banco Bradesco;424;221871;Março de 2025;120;119;54,71;6565,2;2309,07;0 / Março de 2025;Abril de 2035;Novo contrato
+136192;Empréstimo Consignado;13/02/2025;Banco Bradesco;424;232991;Março de 2025;120;119;105,13;12615,6;4424,23;0 / Março de 2025;Abril de 2035;Novo contrato
+136256;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;2111;Abril de 2025;120;120;2084,72;250166,4;99971,69;1 / Maio de 2025;Maio de 2035;Renegociação
+136255;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;2111;Abril de 2025;120;120;303,94;36472,8;14053,33;1 / Maio de 2025;Maio de 2035;Renegociação
+136234;Empréstimo Consignado;12/03/2025;Banco Bradesco;424;2601;Abril de 2025;120;120;474,2;56904;20162,88;0 / Abril de 2025;Maio de 2035;Renegociação
+136264;Empréstimo Consignado;09/04/2025;Banco Bradesco;424;2711;Abril de 2025;120;120;55,57;6668,4;2328,82;1 / Maio de 2025;Maio de 2035;Novo contrato
+136262;Empréstimo Consignado;07/04/2025;Banco Bradesco;424;4831;Abril de 2025;120;120;296,79;35614,8;12420,87;1 / Maio de 2025;Maio de 2035;Novo contrato
+136249;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;4881;Abril de 2025;120;120;270,18;32421,6;11597,4;1 / Maio de 2025;Maio de 2035;Renegociação
+136250;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;4911;Abril de 2025;96;96;542,45;52075,2;19948,86;1 / Maio de 2025;Maio de 2033;Renegociação
+136270;Empréstimo Consignado;11/04/2025;Banco Bradesco;424;5031;Abril de 2025;120;120;1667,7;200124;80049,81;1 / Maio de 2025;Maio de 2035;Renegociação
+136269;Empréstimo Consignado;11/04/2025;Banco Bradesco;424;5031;Abril de 2025;120;120;289,6;34752;13384,91;1 / Maio de 2025;Maio de 2035;Renegociação
+136271;Empréstimo Consignado;11/04/2025;Banco Bradesco;424;5581;Abril de 2025;120;120;41,92;5030,4;1759,48;1 / Maio de 2025;Maio de 2035;Novo contrato
+136261;Empréstimo Consignado;07/04/2025;Banco Bradesco;424;5601;Abril de 2025;120;120;571,19;68542,8;22128,35;1 / Maio de 2025;Maio de 2035;Renegociação
+136240;Empréstimo Consignado;17/03/2025;Banco Bradesco;424;6041;Abril de 2025;120;120;88,25;10590;4088,87;0 / Abril de 2025;Maio de 2035;Renegociação
+136268;Empréstimo Consignado;11/04/2025;Banco Bradesco;424;7051;Abril de 2025;70;70;229,16;16041,2;7939,7;1 / Maio de 2025;Março de 2031;Renegociação
+136257;Empréstimo Consignado;04/04/2025;Banco Bradesco;424;7061;Abril de 2025;120;120;156,15;18738;6521,33;1 / Maio de 2025;Maio de 2035;Novo contrato
+136235;Empréstimo Consignado;13/03/2025;Banco Bradesco;424;7151;Abril de 2025;120;120;696,67;83600,4;32288,4;0 / Abril de 2025;Maio de 2035;Renegociação
+136246;Empréstimo Consignado;01/04/2025;Banco Bradesco;424;7281;Abril de 2025;120;120;44,56;5347,2;1553,13;1 / Maio de 2025;Maio de 2035;Novo contrato
+136245;Empréstimo Consignado;31/03/2025;Banco Bradesco;424;8521;Abril de 2025;72;72;76,42;5502,24;2769,63;0 / Abril de 2025;Maio de 2031;Novo contrato
+136239;Empréstimo Consignado;17/03/2025;Banco Bradesco;424;8921;Abril de 2025;120;120;345,16;41419,2;15473,67;0 / Abril de 2025;Maio de 2035;Renegociação
+136259;Empréstimo Consignado;04/04/2025;Banco Bradesco;424;8921;Abril de 2025;120;120;147,48;17697,6;6272,33;1 / Maio de 2025;Maio de 2035;Renegociação
+136265;Empréstimo Consignado;09/04/2025;Banco Bradesco;424;9022;Abril de 2025;120;120;1283,01;153961,2;45032,53;1 / Maio de 2025;Maio de 2035;Novo contrato
+136252;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;9151;Abril de 2025;120;120;278,4;33408;12103,98;1 / Maio de 2025;Maio de 2035;Renegociação
+136238;Empréstimo Consignado;14/03/2025;Banco Bradesco;424;9161;Abril de 2025;120;120;45,54;5464,8;1914,64;0 / Abril de 2025;Maio de 2035;Novo contrato
+136236;Empréstimo Consignado;13/03/2025;Banco Bradesco;424;11791;Abril de 2025;24;24;596,68;14320,32;10300,69;0 / Abril de 2025;Maio de 2027;Novo contrato
+136267;Empréstimo Consignado;11/04/2025;Banco Bradesco;424;11801;Abril de 2025;120;120;303,14;36376,8;12934,48;1 / Maio de 2025;Maio de 2035;Renegociação
+136263;Empréstimo Consignado;08/04/2025;Banco Bradesco;424;194881;Abril de 2025;5;5;159,39;796,95;719,31;1 / Maio de 2025;Outubro de 2025;Novo contrato
+136248;Empréstimo Consignado;01/04/2025;Banco Bradesco;424;197551;Abril de 2025;12;12;491,59;5899,08;5105,73;0 / Abril de 2025;Maio de 2026;Novo contrato
+136266;Empréstimo Consignado;09/04/2025;Banco Bradesco;424;197551;Abril de 2025;14;14;185,88;2602,32;2106,51;1 / Maio de 2025;Julho de 2026;Novo contrato
+136247;Empréstimo Consignado;01/04/2025;Banco Bradesco;424;201681;Abril de 2025;106;106;1294,85;137254,1;50775,4;1 / Maio de 2025;Março de 2034;Renegociação
+136243;Empréstimo Consignado;27/03/2025;Banco Bradesco;424;202221;Abril de 2025;117;117;511,84;59885,28;19941,9;0 / Abril de 2025;Fevereiro de 2035;Renegociação
+136260;Empréstimo Consignado;04/04/2025;Banco Bradesco;424;203111;Abril de 2025;120;120;40,9;4908;1707,97;1 / Maio de 2025;Maio de 2035;Novo contrato
+136244;Empréstimo Consignado;28/03/2025;Banco Bradesco;424;210751;Abril de 2025;120;120;809,51;97141,2;29685,89;3 / Julho de 2025;Maio de 2035;Renegociação
+136253;Empréstimo Consignado;03/04/2025;Banco Bradesco;424;214071;Abril de 2025;120;120;1175,93;141111,6;52435,52;1 / Maio de 2025;Maio de 2035;Renegociação
+136258;Empréstimo Consignado;04/04/2025;Banco Bradesco;424;222331;Abril de 2025;5;5;114,3;571,5;513,97;1 / Maio de 2025;Outubro de 2025;Novo contrato
+136275;Empréstimo Consignado;15/04/2025;Banco Bradesco;424;2811;Maio de 2025;60;60;314,46;18867,6;10339,13;0 / Maio de 2025;Maio de 2030;Novo contrato
+136274;Empréstimo Consignado;15/04/2025;Banco Bradesco;424;5021;Maio de 2025;120;120;41,8;5016;1759,34;0 / Maio de 2025;Maio de 2035;Novo contrato
+136272;Empréstimo Consignado;14/04/2025;Banco Bradesco;424;5081;Maio de 2025;120;120;159,94;19192,8;6727,04;0 / Maio de 2025;Maio de 2035;Novo contrato
+136273;Empréstimo Consignado;14/04/2025;Banco Bradesco;424;6231;Maio de 2025;120;120;491,67;59000,4;23406,85;0 / Maio de 2025;Maio de 2035;Renegociação
+136276;Empréstimo Consignado;16/04/2025;Banco Bradesco;424;7631;Maio de 2025;24;24;416,31;9991,44;7209,18;0 / Maio de 2025;Maio de 2027;Novo contrato
